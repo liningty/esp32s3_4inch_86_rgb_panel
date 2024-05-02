@@ -1,0 +1,1216 @@
+[1/1047] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/usb_fsls_phy_hal.c.obj
+[2/1047] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/spi_flash_hal_gpspi.c.obj
+[3/1047] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/usb_dwc_hal.c.obj
+[4/1047] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/xt_wdt_hal.c.obj
+[5/1047] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/spi_slave_hal_iram.c.obj
+[6/1047] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/touch_sensor_hal.c.obj
+[7/1047] Building C object esp-idf/log/CMakeFiles/__idf_log.dir/log.c.obj
+[8/1047] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/spi_slave_hd_hal.c.obj
+[9/1047] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/esp32s3/touch_sensor_hal.c.obj
+[10/1047] Building C object esp-idf/log/CMakeFiles/__idf_log.dir/log_buffers.c.obj
+[11/1047] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/esp32s3/rtc_cntl_hal.c.obj
+[12/1047] Building C object esp-idf/log/CMakeFiles/__idf_log.dir/log_freertos.c.obj
+[13/1047] Building C object esp-idf/heap/CMakeFiles/__idf_heap.dir/heap_caps_init.c.obj
+[14/1047] Building C object esp-idf/heap/CMakeFiles/__idf_heap.dir/port/memory_layout_utils.c.obj
+[15/1047] Building C object esp-idf/heap/CMakeFiles/__idf_heap.dir/port/esp32s3/memory_layout.c.obj
+[16/1047] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/lldesc.c.obj
+[17/1047] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/dport_access_common.c.obj
+[18/1047] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/interrupts.c.obj
+[19/1047] Building C object esp-idf/heap/CMakeFiles/__idf_heap.dir/multi_heap.c.obj
+[20/1047] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/gpio_periph.c.obj
+[21/1047] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/uart_periph.c.obj
+[22/1047] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/dedic_gpio_periph.c.obj
+[23/1047] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/adc_periph.c.obj
+[24/1047] Building C object esp-idf/heap/CMakeFiles/__idf_heap.dir/heap_caps.c.obj
+[25/1047] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/spi_periph.c.obj
+[26/1047] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/sdm_periph.c.obj
+[27/1047] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/gdma_periph.c.obj
+[28/1047] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/rmt_periph.c.obj
+[29/1047] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/pcnt_periph.c.obj
+[30/1047] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/ledc_periph.c.obj
+[31/1047] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/i2s_periph.c.obj
+[32/1047] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/temperature_sensor_periph.c.obj
+[33/1047] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/touch_sensor_periph.c.obj
+[34/1047] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/i2c_periph.c.obj
+[35/1047] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/timer_periph.c.obj
+[36/1047] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/lcd_periph.c.obj
+[37/1047] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/mcpwm_periph.c.obj
+[38/1047] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/sdmmc_periph.c.obj
+[39/1047] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/usb_dwc_periph.c.obj
+[40/1047] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/mpi_periph.c.obj
+[41/1047] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/usb_periph.c.obj
+[42/1047] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/twai_periph.c.obj
+[43/1047] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/rtc_io_periph.c.obj
+[44/1047] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/esp_memory_utils.c.obj
+[45/1047] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32s3/cpu_region_protect.c.obj
+[46/1047] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/cpu.c.obj
+[47/1047] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/clk_ctrl_os.c.obj
+[48/1047] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/hw_random.c.obj
+[49/1047] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/esp_clk.c.obj
+[50/1047] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/revision.c.obj
+[51/1047] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/intr_alloc.c.obj
+[52/1047] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/mac_addr.c.obj
+[53/1047] Building C object esp-idf/heap/CMakeFiles/__idf_heap.dir/tlsf/tlsf.c.obj
+[54/1047] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/periph_ctrl.c.obj
+[55/1047] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/sleep_console.c.obj
+[56/1047] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/esp_hmac.c.obj
+[57/1047] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/rtc_module.c.obj
+[58/1047] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/sleep_event.c.obj
+[59/1047] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/sleep_modes.c.obj
+[60/1047] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/sleep_gpio.c.obj
+[61/1047] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/esp_gpio_reserve.c.obj
+[62/1047] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/sleep_modem.c.obj
+[63/1047] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32s3/io_mux.c.obj
+[64/1047] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/regi2c_ctrl.c.obj
+[65/1047] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/esp_ds.c.obj
+[66/1047] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32s3/esp_clk_tree.c.obj
+[67/1047] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/dma/esp_dma_utils.c.obj
+[68/1047] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/sar_periph_ctrl_common.c.obj
+[69/1047] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp_clk_tree_common.c.obj
+[70/1047] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/adc_share_hw_ctrl.c.obj
+[71/1047] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32s3/systimer.c.obj
+[72/1047] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/dma/esp_async_memcpy.c.obj
+[73/1047] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/dma/gdma.c.obj
+[74/1047] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/sleep_cpu.c.obj
+[75/1047] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/mspi_timing_tuning.c.obj
+[76/1047] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/mspi_timing_config.c.obj
+[77/1047] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/mspi_timing_by_mspi_delay.c.obj
+[78/1047] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/sleep_wake_stub.c.obj
+[79/1047] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/dma/async_memcpy_gdma.c.obj
+[80/1047] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32s3/rtc_clk_init.c.obj
+[81/1047] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/esp_clock_output.c.obj
+[82/1047] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32s3/rtc_init.c.obj
+[83/1047] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32s3/rtc_sleep.c.obj
+[84/1047] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32s3/rtc_clk.c.obj
+[85/1047] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32s3/esp_crypto_lock.c.obj
+[86/1047] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32s3/chip_info.c.obj
+[87/1047] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32s3/rtc_time.c.obj
+[88/1047] Building C object esp-idf/freertos/CMakeFiles/__idf_freertos.dir/heap_idf.c.obj
+[89/1047] Building C object esp-idf/freertos/CMakeFiles/__idf_freertos.dir/port_common.c.obj
+[90/1047] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp_memprot_conv.c.obj
+[91/1047] Building C object esp-idf/freertos/CMakeFiles/__idf_freertos.dir/app_startup.c.obj
+[92/1047] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32s3/sar_periph_ctrl.c.obj
+[93/1047] Building C object esp-idf/freertos/CMakeFiles/__idf_freertos.dir/port_systick.c.obj
+[94/1047] Building C object esp-idf/freertos/CMakeFiles/__idf_freertos.dir/FreeRTOS-Kernel/list.c.obj
+[95/1047] Building C object esp-idf/freertos/CMakeFiles/__idf_freertos.dir/FreeRTOS-Kernel/portable/xtensa/port.c.obj
+[96/1047] Building C object esp-idf/freertos/CMakeFiles/__idf_freertos.dir/FreeRTOS-Kernel/queue.c.obj
+[97/1047] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32s3/esp_memprot.c.obj
+[98/1047] Building C object esp-idf/freertos/CMakeFiles/__idf_freertos.dir/FreeRTOS-Kernel/event_groups.c.obj
+[99/1047] Building C object esp-idf/freertos/CMakeFiles/__idf_freertos.dir/FreeRTOS-Kernel/timers.c.obj
+[100/1047] Building C object esp-idf/freertos/CMakeFiles/__idf_freertos.dir/esp_additions/freertos_compatibility.c.obj
+[101/1047] Building ASM object esp-idf/freertos/CMakeFiles/__idf_freertos.dir/FreeRTOS-Kernel/portable/xtensa/portasm.S.obj
+[102/1047] Building C object esp-idf/freertos/CMakeFiles/__idf_freertos.dir/FreeRTOS-Kernel/portable/xtensa/xtensa_overlay_os_hook.c.obj
+[103/1047] Building C object esp-idf/freertos/CMakeFiles/__idf_freertos.dir/FreeRTOS-Kernel/portable/xtensa/xtensa_init.c.obj
+[104/1047] Building C object esp-idf/freertos/CMakeFiles/__idf_freertos.dir/FreeRTOS-Kernel/stream_buffer.c.obj
+[105/1047] Building C object esp-idf/newlib/CMakeFiles/__idf_newlib.dir/abort.c.obj
+[106/1047] Building C object esp-idf/newlib/CMakeFiles/__idf_newlib.dir/assert.c.obj
+[107/1047] Building C object esp-idf/newlib/CMakeFiles/__idf_newlib.dir/heap.c.obj
+[108/1047] Building C object esp-idf/newlib/CMakeFiles/__idf_newlib.dir/pthread.c.obj
+[109/1047] Building C object esp-idf/newlib/CMakeFiles/__idf_newlib.dir/reent_init.c.obj
+[110/1047] Building C object esp-idf/freertos/CMakeFiles/__idf_freertos.dir/esp_additions/idf_additions.c.obj
+[111/1047] Building C object esp-idf/newlib/CMakeFiles/__idf_newlib.dir/poll.c.obj
+[112/1047] Building C object esp-idf/newlib/CMakeFiles/__idf_newlib.dir/getentropy.c.obj
+[113/1047] Building C object esp-idf/newlib/CMakeFiles/__idf_newlib.dir/random.c.obj
+[114/1047] Building C object esp-idf/newlib/CMakeFiles/__idf_newlib.dir/termios.c.obj
+[115/1047] Building C object esp-idf/newlib/CMakeFiles/__idf_newlib.dir/locks.c.obj
+[116/1047] Building C object esp-idf/newlib/CMakeFiles/__idf_newlib.dir/newlib_init.c.obj
+[117/1047] Building C object esp-idf/newlib/CMakeFiles/__idf_newlib.dir/syscalls.c.obj
+[118/1047] Building C object esp-idf/newlib/CMakeFiles/__idf_newlib.dir/port/esp_time_impl.c.obj
+[119/1047] Building C object esp-idf/newlib/CMakeFiles/__idf_newlib.dir/realpath.c.obj
+[120/1047] Building C object esp-idf/freertos/CMakeFiles/__idf_freertos.dir/FreeRTOS-Kernel/tasks.c.obj
+[121/1047] Building C object esp-idf/newlib/CMakeFiles/__idf_newlib.dir/time.c.obj
+[122/1047] Building C object esp-idf/newlib/CMakeFiles/__idf_newlib.dir/stdatomic.c.obj
+[123/1047] Building C object esp-idf/newlib/CMakeFiles/__idf_newlib.dir/sysconf.c.obj
+[124/1047] Building C object esp-idf/esp_timer/CMakeFiles/__idf_esp_timer.dir/src/ets_timer_legacy.c.obj
+[125/1047] Building C object esp-idf/esp_timer/CMakeFiles/__idf_esp_timer.dir/src/system_time.c.obj
+[126/1047] Building C object esp-idf/esp_timer/CMakeFiles/__idf_esp_timer.dir/src/esp_timer_impl_common.c.obj
+[127/1047] Building C object esp-idf/esp_timer/CMakeFiles/__idf_esp_timer.dir/src/esp_timer_impl_systimer.c.obj
+[128/1047] Building CXX object esp-idf/cxx/CMakeFiles/__idf_cxx.dir/cxx_exception_stubs.cpp.obj
+[129/1047] Building C object esp-idf/esp_common/CMakeFiles/__idf_esp_common.dir/src/esp_err_to_name.c.obj
+[130/1047] Building C object esp-idf/esp_event/CMakeFiles/__idf_esp_event.dir/esp_event_private.c.obj
+[131/1047] Building C object esp-idf/esp_event/CMakeFiles/__idf_esp_event.dir/default_event_loop.c.obj
+[132/1047] Building C object esp-idf/esp_timer/CMakeFiles/__idf_esp_timer.dir/src/esp_timer.c.obj
+[133/1047] Building C object esp-idf/esp_event/CMakeFiles/__idf_esp_event.dir/esp_event.c.obj
+[134/1047] Building CXX object esp-idf/cxx/CMakeFiles/__idf_cxx.dir/cxx_guards.cpp.obj
+[135/1047] Performing configure step for 'bootloader'
+-- The C compiler identification is GNU 13.2.0
+-- The CXX compiler identification is GNU 13.2.0
+-- The ASM compiler identification is GNU
+-- Found assembler: /home/yan/.espressif/tools/xtensa-esp-elf/esp-13.2.0_20230928/xtensa-esp-elf/bin/xtensa-esp32s3-elf-gcc
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /home/yan/.espressif/tools/xtensa-esp-elf/esp-13.2.0_20230928/xtensa-esp-elf/bin/xtensa-esp32s3-elf-gcc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /home/yan/.espressif/tools/xtensa-esp-elf/esp-13.2.0_20230928/xtensa-esp-elf/bin/xtensa-esp32s3-elf-g++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Building ESP-IDF components for target esp32s3
+-- Project sdkconfig file /home/logcode/esp32s3_4inch_86_rgb_panel/sdkconfig
+-- Compiler supported targets: xtensa-esp-elf
+-- Looking for sys/types.h
+-- Looking for sys/types.h - found
+-- Looking for stdint.h
+-- Looking for stdint.h - found
+-- Looking for stddef.h
+-- Looking for stddef.h - found
+-- Check size of time_t
+-- Check size of time_t - done
+-- Adding linker script /home/logcode/esp-idf/components/soc/esp32s3/ld/esp32s3.peripherals.ld
+-- Bootloader project name: "bootloader" version: 1
+-- Adding linker script /home/logcode/esp-idf/components/esp_rom/esp32s3/ld/esp32s3.rom.ld
+-- Adding linker script /home/logcode/esp-idf/components/esp_rom/esp32s3/ld/esp32s3.rom.api.ld
+-- Adding linker script /home/logcode/esp-idf/components/esp_rom/esp32s3/ld/esp32s3.rom.libgcc.ld
+-- Adding linker script /home/logcode/esp-idf/components/esp_rom/esp32s3/ld/esp32s3.rom.newlib.ld
+-- Adding linker script /home/logcode/esp-idf/components/bootloader/subproject/main/ld/esp32s3/bootloader.ld
+-- Adding linker script /home/logcode/esp-idf/components/bootloader/subproject/main/ld/esp32s3/bootloader.rom.ld
+-- Components: bootloader bootloader_support efuse esp_app_format esp_bootloader_format esp_common esp_hw_support esp_rom esp_system esptool_py freertos hal log main micro-ecc newlib partition_table soc spi_flash xtensa
+-- Component paths: /home/logcode/esp-idf/components/bootloader /home/logcode/esp-idf/components/bootloader_support /home/logcode/esp-idf/components/efuse /home/logcode/esp-idf/components/esp_app_format /home/logcode/esp-idf/components/esp_bootloader_format /home/logcode/esp-idf/components/esp_common /home/logcode/esp-idf/components/esp_hw_support /home/logcode/esp-idf/components/esp_rom /home/logcode/esp-idf/components/esp_system /home/logcode/esp-idf/components/esptool_py /home/logcode/esp-idf/components/freertos /home/logcode/esp-idf/components/hal /home/logcode/esp-idf/components/log /home/logcode/esp-idf/components/bootloader/subproject/main /home/logcode/esp-idf/components/bootloader/subproject/components/micro-ecc /home/logcode/esp-idf/components/newlib /home/logcode/esp-idf/components/partition_table /home/logcode/esp-idf/components/soc /home/logcode/esp-idf/components/spi_flash /home/logcode/esp-idf/components/xtensa
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/logcode/esp32s3_4inch_86_rgb_panel/build/bootloader
+[136/1047] Building CXX object esp-idf/nvs_flash/CMakeFiles/__idf_nvs_flash.dir/src/nvs_types.cpp.obj
+[137/1047] Building CXX object esp-idf/nvs_flash/CMakeFiles/__idf_nvs_flash.dir/src/nvs_cxx_api.cpp.obj
+[138/1047] Building CXX object esp-idf/nvs_flash/CMakeFiles/__idf_nvs_flash.dir/src/nvs_page.cpp.obj
+[139/1047] Building CXX object esp-idf/nvs_flash/CMakeFiles/__idf_nvs_flash.dir/src/nvs_api.cpp.obj
+[140/1047] Building CXX object esp-idf/nvs_flash/CMakeFiles/__idf_nvs_flash.dir/src/nvs_item_hash_list.cpp.obj
+[141/1047] Building CXX object esp-idf/nvs_flash/CMakeFiles/__idf_nvs_flash.dir/src/nvs_partition.cpp.obj
+[142/1047] Building CXX object esp-idf/nvs_flash/CMakeFiles/__idf_nvs_flash.dir/src/nvs_pagemanager.cpp.obj
+[143/1047] Building CXX object esp-idf/nvs_flash/CMakeFiles/__idf_nvs_flash.dir/src/nvs_storage.cpp.obj
+[144/1047] Building CXX object esp-idf/nvs_flash/CMakeFiles/__idf_nvs_flash.dir/src/nvs_partition_lookup.cpp.obj
+[145/1047] Building C object esp-idf/esp_phy/CMakeFiles/__idf_esp_phy.dir/src/lib_printf.c.obj
+[146/1047] Building C object esp-idf/esp_phy/CMakeFiles/__idf_esp_phy.dir/src/phy_common.c.obj
+[147/1047] Building C object esp-idf/esp_phy/CMakeFiles/__idf_esp_phy.dir/src/phy_override.c.obj
+[148/1047] Building C object esp-idf/esp_phy/CMakeFiles/__idf_esp_phy.dir/src/phy_init.c.obj
+[149/1047] Building C object esp-idf/esp_phy/CMakeFiles/__idf_esp_phy.dir/src/btbb_init.c.obj
+[150/1047] Performing build step for 'bootloader'
+[1/112] Generating project_elf_src_esp32s3.c
+[2/112] Building C object esp-idf/xtensa/CMakeFiles/__idf_xtensa.dir/eri.c.obj
+[3/112] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/lldesc.c.obj
+[4/112] Building C object CMakeFiles/bootloader.elf.dir/project_elf_src_esp32s3.c.obj
+[5/112] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/gpio_periph.c.obj
+[6/112] Building C object esp-idf/xtensa/CMakeFiles/__idf_xtensa.dir/xt_trax.c.obj
+[7/112] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/uart_periph.c.obj
+[8/112] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/interrupts.c.obj
+[9/112] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/dedic_gpio_periph.c.obj
+[10/112] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/dport_access_common.c.obj
+[11/112] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/gdma_periph.c.obj
+[12/112] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/ledc_periph.c.obj
+[13/112] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/pcnt_periph.c.obj
+[14/112] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/spi_periph.c.obj
+[15/112] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/adc_periph.c.obj
+[16/112] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/rmt_periph.c.obj
+[17/112] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/sdm_periph.c.obj
+[18/112] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/temperature_sensor_periph.c.obj
+[19/112] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/lcd_periph.c.obj
+[20/112] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/i2c_periph.c.obj
+[21/112] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/timer_periph.c.obj
+[22/112] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/mcpwm_periph.c.obj
+[23/112] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/touch_sensor_periph.c.obj
+[24/112] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/twai_periph.c.obj
+[25/112] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/i2s_periph.c.obj
+[26/112] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/mpi_periph.c.obj
+[27/112] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/usb_periph.c.obj
+[28/112] Building C object esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32s3/esp_efuse_rtc_calib.c.obj
+[29/112] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/sdmmc_periph.c.obj
+[30/112] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/usb_dwc_periph.c.obj
+[31/112] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32s3/rtc_io_periph.c.obj
+[32/112] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/efuse_hal.c.obj
+[33/112] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/mpu_hal.c.obj
+[34/112] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/hal_utils.c.obj
+[35/112] Building C object esp-idf/esp_bootloader_format/CMakeFiles/__idf_esp_bootloader_format.dir/esp_bootloader_desc.c.obj
+[36/112] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/mmu_hal.c.obj
+[37/112] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/esp32s3/efuse_hal.c.obj
+[38/112] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_common_loader.c.obj
+[39/112] Building C object esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/spi_flash_wrap.c.obj
+[40/112] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/cache_hal.c.obj
+[41/112] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_clock_init.c.obj
+[42/112] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_random.c.obj
+[43/112] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_common.c.obj
+[44/112] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_mem.c.obj
+[45/112] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_efuse.c.obj
+[46/112] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_random_esp32s3.c.obj
+[47/112] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/secure_boot.c.obj
+[48/112] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/flash_encrypt.c.obj
+[49/112] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/flash_partitions.c.obj
+[50/112] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/bootloader_flash/src/bootloader_flash.c.obj
+[51/112] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/bootloader_flash/src/flash_qio_mode.c.obj
+[52/112] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/bootloader_flash/src/bootloader_flash_config_esp32s3.c.obj
+[53/112] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_init.c.obj
+[54/112] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_clock_loader.c.obj
+[55/112] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_console_loader.c.obj
+[56/112] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp32s3/bootloader_sha.c.obj
+[57/112] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp32s3/bootloader_soc.c.obj
+[58/112] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp32s3/bootloader_esp32s3.c.obj
+[59/112] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_panic.c.obj
+[60/112] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_console.c.obj
+[61/112] Building C object esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32s3/esp_efuse_table.c.obj
+[62/112] Building C object esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32s3/esp_efuse_fields.c.obj
+[63/112] Building C object esp-idf/micro-ecc/CMakeFiles/__idf_micro-ecc.dir/uECC_verify_antifault.c.obj
+[64/112] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_utility.c.obj
+[65/112] Building C object esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_api.c.obj
+[66/112] Building C object esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32s3/esp_efuse_utility.c.obj
+[67/112] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/cpu.c.obj
+[68/112] Building C object esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/esp_err.c.obj
+[69/112] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/esp_memory_utils.c.obj
+[70/112] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32s3/cpu_region_protect.c.obj
+[71/112] Building C object esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_fields.c.obj
+[72/112] Building C object esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_utility.c.obj
+[73/112] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32s3/rtc_clk_init.c.obj
+[74/112] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32s3/rtc_clk.c.obj
+[75/112] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32s3/rtc_init.c.obj
+[76/112] Building C object esp-idf/esp_common/CMakeFiles/__idf_esp_common.dir/src/esp_err_to_name.c.obj
+[77/112] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32s3/rtc_sleep.c.obj
+[78/112] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32s3/chip_info.c.obj
+[79/112] Building C object esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_crc.c.obj
+[80/112] Building C object esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/efuse_controller/keys/with_key_purposes/esp_efuse_api_key.c.obj
+[81/112] Building C object esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_sys.c.obj
+[82/112] Building C object esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_spiflash.c.obj
+[83/112] Building C object esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_efuse.c.obj
+[84/112] Building C object esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_uart.c.obj
+[85/112] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp_image_format.c.obj
+[86/112] Building ASM object esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_longjmp.S.obj
+[87/112] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32s3/rtc_time.c.obj
+[88/112] Building ASM object esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_cache_writeback_esp32s3.S.obj
+[89/112] Building C object esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_systimer.c.obj
+[90/112] Building C object esp-idf/log/CMakeFiles/__idf_log.dir/log.c.obj
+[91/112] Building C object esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_wdt.c.obj
+[92/112] Building C object esp-idf/log/CMakeFiles/__idf_log.dir/log_noos.c.obj
+[93/112] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/bootloader_start.c.obj
+[94/112] Building C object esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_cache_esp32s2_esp32s3.c.obj
+[95/112] Building C object esp-idf/log/CMakeFiles/__idf_log.dir/log_buffers.c.obj
+[96/112] Linking C static library esp-idf/log/liblog.a
+[97/112] Linking C static library esp-idf/esp_rom/libesp_rom.a
+[98/112] Linking C static library esp-idf/esp_common/libesp_common.a
+[99/112] Linking C static library esp-idf/esp_hw_support/libesp_hw_support.a
+[100/112] Linking C static library esp-idf/esp_system/libesp_system.a
+[101/112] Linking C static library esp-idf/efuse/libefuse.a
+[102/112] Linking C static library esp-idf/bootloader_support/libbootloader_support.a
+[103/112] Linking C static library esp-idf/esp_bootloader_format/libesp_bootloader_format.a
+[104/112] Linking C static library esp-idf/spi_flash/libspi_flash.a
+[105/112] Linking C static library esp-idf/hal/libhal.a
+[106/112] Linking C static library esp-idf/micro-ecc/libmicro-ecc.a
+[107/112] Linking C static library esp-idf/soc/libsoc.a
+[108/112] Linking C static library esp-idf/xtensa/libxtensa.a
+[109/112] Linking C static library esp-idf/main/libmain.a
+[110/112] Linking C executable bootloader.elf
+[111/112] Generating binary image from built executable
+esptool.py v4.7.0
+Creating esp32s3 image...
+Merged 2 ELF sections
+Successfully created esp32s3 image.
+Generated /home/logcode/esp32s3_4inch_86_rgb_panel/build/bootloader/bootloader.bin
+[112/112] cd /home/logcode/esp32s3_4inch_86_rgb_panel/build/bootloader/esp-idf/esptool_py && /home/yan/.espressif/python_env/idf5.2_py3.10_env/bin/python /home/logcode/esp-idf/components/partition_table/check_sizes.py --offset 0x8000 bootloader 0x0 /home/logcode/esp32s3_4inch_86_rgb_panel/build/bootloader/bootloader.bin
+Bootloader binary size 0x5250 bytes. 0x2db0 bytes (36%) free.
+[151/1047] No install step for 'bootloader'
+[152/1047] Completed 'bootloader'
+[153/1047] Building CXX object esp-idf/nvs_flash/CMakeFiles/__idf_nvs_flash.dir/src/nvs_handle_locked.cpp.obj
+[154/1047] Building CXX object esp-idf/nvs_flash/CMakeFiles/__idf_nvs_flash.dir/src/nvs_handle_simple.cpp.obj
+[155/1047] Building C object esp-idf/vfs/CMakeFiles/__idf_vfs.dir/vfs_eventfd.c.obj
+[156/1047] Building C object esp-idf/vfs/CMakeFiles/__idf_vfs.dir/vfs.c.obj
+[157/1047] Building C object esp-idf/vfs/CMakeFiles/__idf_vfs.dir/vfs_console.c.obj
+[158/1047] Building C object esp-idf/vfs/CMakeFiles/__idf_vfs.dir/vfs_semihost.c.obj
+[159/1047] Building C object esp-idf/vfs/CMakeFiles/__idf_vfs.dir/vfs_uart.c.obj
+[160/1047] Building C object esp-idf/vfs/CMakeFiles/__idf_vfs.dir/vfs_usb_serial_jtag.c.obj
+[161/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/apps/sntp/sntp.c.obj
+[162/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/api/if_api.c.obj
+[163/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/api/err.c.obj
+[164/1047] Building CXX object esp-idf/nvs_flash/CMakeFiles/__idf_nvs_flash.dir/src/nvs_encrypted_partition.cpp.obj
+[165/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/api/netbuf.c.obj
+[166/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/apps/netbiosns/netbiosns.c.obj
+[167/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/api/netdb.c.obj
+[168/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/api/netifapi.c.obj
+[169/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/apps/sntp/sntp.c.obj
+[170/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/api/api_lib.c.obj
+[171/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/api/tcpip.c.obj
+[172/1047] Building CXX object esp-idf/nvs_flash/CMakeFiles/__idf_nvs_flash.dir/src/nvs_partition_manager.cpp.obj
+[173/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/memp.c.obj
+[174/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/api/api_msg.c.obj
+[175/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/def.c.obj
+[176/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/inet_chksum.c.obj
+[177/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/init.c.obj
+[178/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/dns.c.obj
+[179/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ip.c.obj
+[180/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/sys.c.obj
+[181/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/netif.c.obj
+[182/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/mem.c.obj
+[183/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/stats.c.obj
+[184/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv4/autoip.c.obj
+[185/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/pbuf.c.obj
+[186/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/api/sockets.c.obj
+[187/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/raw.c.obj
+[188/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/udp.c.obj
+[189/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv4/ip4.c.obj
+[190/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/timeouts.c.obj
+[191/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/tcp.c.obj
+[192/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv4/dhcp.c.obj
+[193/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv4/igmp.c.obj
+[194/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv4/icmp.c.obj
+[195/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv6/dhcp6.c.obj
+[196/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv4/etharp.c.obj
+[197/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/tcp_out.c.obj
+[198/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/tcp_in.c.obj
+[199/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv4/ip4_napt.c.obj
+[200/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv6/ethip6.c.obj
+[201/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv4/ip4_frag.c.obj
+[202/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/auth.c.obj
+[203/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv4/ip4_addr.c.obj
+[204/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv6/ip6_frag.c.obj
+[205/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv6/icmp6.c.obj
+[206/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv6/ip6_addr.c.obj
+[207/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv6/inet6.c.obj
+[208/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/slipif.c.obj
+[209/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv6/ip6.c.obj
+[210/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv6/mld6.c.obj
+[211/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ethernet.c.obj
+[212/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/bridgeif.c.obj
+[213/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/demand.c.obj
+[214/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/bridgeif_fdb.c.obj
+[215/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/chap_ms.c.obj
+[216/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/ccp.c.obj
+[217/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/chap-md5.c.obj
+[218/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/ipcp.c.obj
+[219/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv6/nd6.c.obj
+[220/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/chap-new.c.obj
+[221/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/fsm.c.obj
+[222/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/ecp.c.obj
+[223/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/mppe.c.obj
+[224/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/eui64.c.obj
+[225/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/magic.c.obj
+[226/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/multilink.c.obj
+[227/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/ipv6cp.c.obj
+[228/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/eap.c.obj
+[229/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/ppp.c.obj
+[230/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/lcp.c.obj
+[231/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/pppoe.c.obj
+[232/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/upap.c.obj
+[233/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/pppol2tp.c.obj
+[234/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/pppapi.c.obj
+[235/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/pppos.c.obj
+[236/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/port/hooks/tcp_isn_default.c.obj
+[237/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/pppcrypt.c.obj
+[238/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/port/hooks/lwip_default_hooks.c.obj
+[239/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/vj.c.obj
+[240/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/utils.c.obj
+[241/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/apps/ping/ping.c.obj
+[242/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/port/sockets_ext.c.obj
+[243/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/apps/ping/esp_ping.c.obj
+[244/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/port/esp32xx/vfs_lwip.c.obj
+[245/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/port/debug/lwip_debug.c.obj
+[246/1047] Building C object esp-idf/esp_netif/CMakeFiles/__idf_esp_netif.dir/esp_netif_defaults.c.obj
+[247/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/apps/ping/ping_sock.c.obj
+[248/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/port/freertos/sys_arch.c.obj
+[249/1047] Building C object esp-idf/esp_netif/CMakeFiles/__idf_esp_netif.dir/esp_netif_handlers.c.obj
+[250/1047] Building C object esp-idf/esp_netif/CMakeFiles/__idf_esp_netif.dir/esp_netif_objects.c.obj
+[251/1047] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/apps/dhcpserver/dhcpserver.c.obj
+[252/1047] Building C object esp-idf/esp_netif/CMakeFiles/__idf_esp_netif.dir/lwip/esp_netif_lwip_defaults.c.obj
+[253/1047] Building C object esp-idf/esp_netif/CMakeFiles/__idf_esp_netif.dir/lwip/netif/wlanif.c.obj
+[254/1047] Building C object esp-idf/esp_netif/CMakeFiles/__idf_esp_netif.dir/lwip/netif/esp_pbuf_ref.c.obj
+[255/1047] Building C object esp-idf/esp_netif/CMakeFiles/__idf_esp_netif.dir/lwip/netif/ethernetif.c.obj
+[256/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/port/os_xtensa.c.obj
+[257/1047] Building C object esp-idf/esp_netif/CMakeFiles/__idf_esp_netif.dir/lwip/esp_netif_sntp.c.obj
+[258/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/ap/ieee802_1x.c.obj
+[259/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/port/eloop.c.obj
+[260/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/ap/ap_config.c.obj
+[261/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/ap/wpa_auth_ie.c.obj
+[262/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/ap/pmksa_cache_auth.c.obj
+[263/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/ap/comeback_token.c.obj
+[264/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/ap/ieee802_11.c.obj
+[265/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/ap/sta_info.c.obj
+[266/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/common/dragonfly.c.obj
+[267/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/crypto_ops.c.obj
+[268/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/utils/bitfield.c.obj
+[269/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/common/wpa_common.c.obj
+[270/1047] Building C object esp-idf/esp_netif/CMakeFiles/__idf_esp_netif.dir/lwip/esp_netif_lwip.c.obj
+[271/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/sha256-kdf.c.obj
+[272/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/aes-siv.c.obj
+[273/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/aes-gcm.c.obj
+[274/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/common/sae.c.obj
+[275/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/ap/wpa_auth.c.obj
+[276/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/dh_group5.c.obj
+[277/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/dh_groups.c.obj
+[278/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/sha1-tlsprf.c.obj
+[279/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/ccmp.c.obj
+[280/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/sha256-prf.c.obj
+[281/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/sha256-tlsprf.c.obj
+[282/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/ms_funcs.c.obj
+[283/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/sha1-prf.c.obj
+[284/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/sha384-tlsprf.c.obj
+[285/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/sha384-prf.c.obj
+[286/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/md4-internal.c.obj
+[287/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/sha1-tprf.c.obj
+[288/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_peer/chap.c.obj
+[289/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_common/eap_wsc_common.c.obj
+[290/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_peer/eap_peap_common.c.obj
+[291/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/common/ieee802_11_common.c.obj
+[292/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_peer/eap.c.obj
+[293/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_peer/mschapv2.c.obj
+[294/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_peer/eap_common.c.obj
+[295/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_peer/eap_mschapv2.c.obj
+[296/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_peer/eap_tls.c.obj
+[297/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_peer/eap_fast_common.c.obj
+[298/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_peer/eap_tls_common.c.obj
+[299/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_peer/eap_ttls.c.obj
+[300/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_peer/eap_peap.c.obj
+[301/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/rsn_supp/pmksa_cache.c.obj
+[302/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/utils/common.c.obj
+[303/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_peer/eap_fast_pac.c.obj
+[304/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/utils/ext_password.c.obj
+[305/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/utils/base64.c.obj
+[306/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/rsn_supp/wpa_ie.c.obj
+[307/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_peer/eap_fast.c.obj
+[308/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/utils/uuid.c.obj
+[309/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/utils/wpabuf.c.obj
+[310/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/utils/wpa_debug.c.obj
+[311/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/rsn_supp/wpa.c.obj
+[312/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/wps/wps_attr_parse.c.obj
+[313/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/wps/wps_attr_build.c.obj
+[314/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/wps/wps.c.obj
+[315/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/wps/wps_attr_process.c.obj
+[316/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/utils/json.c.obj
+[317/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/wps/wps_common.c.obj
+[318/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/esp_supplicant/src/esp_wpa2_api_port.c.obj
+[319/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/common/sae_pk.c.obj
+[320/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/esp_supplicant/src/esp_wpa_main.c.obj
+[321/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/esp_supplicant/src/esp_wpas_glue.c.obj
+[322/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/esp_supplicant/src/esp_common.c.obj
+[323/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/esp_supplicant/src/esp_owe.c.obj
+[324/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/wps/wps_dev_attr.c.obj
+[325/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/wps/wps_enrollee.c.obj
+[326/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/esp_supplicant/src/esp_wpa3.c.obj
+[327/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/esp_supplicant/src/esp_hostap.c.obj
+[328/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/esp_supplicant/src/esp_eap_client.c.obj
+[329/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/esp_supplicant/src/esp_wps.c.obj
+[330/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/esp_supplicant/src/crypto/fastpbkdf2.c.obj
+[331/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/rc4.c.obj
+[332/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/esp_supplicant/src/crypto/crypto_mbedtls-bignum.c.obj
+[333/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/esp_supplicant/src/crypto/crypto_mbedtls.c.obj
+[334/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/esp_supplicant/src/crypto/crypto_mbedtls-rsa.c.obj
+[335/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/esp_supplicant/src/crypto/crypto_mbedtls-ec.c.obj
+[336/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/aes-wrap.c.obj
+[337/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/des-internal.c.obj
+[338/1047] Building C object esp-idf/esp_coex/CMakeFiles/__idf_esp_coex.dir/esp32s3/esp_coex_adapter.c.obj
+[339/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/esp_supplicant/src/crypto/tls_mbedtls.c.obj
+[340/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/aes-unwrap.c.obj
+[341/1047] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/aes-ccm.c.obj
+[342/1047] Building C object esp-idf/esp_wifi/CMakeFiles/__idf_esp_wifi.dir/src/mesh_event.c.obj
+[343/1047] Building C object esp-idf/esp_wifi/CMakeFiles/__idf_esp_wifi.dir/src/wifi_init.c.obj
+[344/1047] Building C object esp-idf/esp_wifi/CMakeFiles/__idf_esp_wifi.dir/src/smartconfig_ack.c.obj
+[345/1047] Building C object esp-idf/esp_wifi/CMakeFiles/__idf_esp_wifi.dir/src/wifi_default_ap.c.obj
+[346/1047] Building C object esp-idf/esp-tls/CMakeFiles/__idf_esp-tls.dir/esp-tls-crypto/esp_tls_crypto.c.obj
+[347/1047] Building C object esp-idf/esp_adc/CMakeFiles/__idf_esp_adc.dir/adc_cali.c.obj
+[348/1047] Building C object esp-idf/esp-tls/CMakeFiles/__idf_esp-tls.dir/esp_tls_error_capture.c.obj
+[349/1047] Building C object esp-idf/esp_adc/CMakeFiles/__idf_esp_adc.dir/deprecated/esp_adc_cal_common_legacy.c.obj
+[350/1047] Building C object esp-idf/esp_adc/CMakeFiles/__idf_esp_adc.dir/adc_cali_curve_fitting.c.obj
+[351/1047] Building C object esp-idf/esp-tls/CMakeFiles/__idf_esp-tls.dir/esp_tls_mbedtls.c.obj
+[352/1047] Building C object esp-idf/esp_adc/CMakeFiles/__idf_esp_adc.dir/adc_filter.c.obj
+[353/1047] Building C object esp-idf/esp_adc/CMakeFiles/__idf_esp_adc.dir/adc_common.c.obj
+[354/1047] Building C object esp-idf/esp_adc/CMakeFiles/__idf_esp_adc.dir/adc_oneshot.c.obj
+[355/1047] Building C object esp-idf/esp-tls/CMakeFiles/__idf_esp-tls.dir/esp_tls.c.obj
+[356/1047] Building C object esp-idf/esp_adc/CMakeFiles/__idf_esp_adc.dir/esp32s3/curve_fitting_coefficients.c.obj
+[357/1047] Building C object esp-idf/esp_adc/CMakeFiles/__idf_esp_adc.dir/deprecated/esp32s3/esp_adc_cal_legacy.c.obj
+[358/1047] Building C object esp-idf/esp_eth/CMakeFiles/__idf_esp_eth.dir/src/esp_eth_netif_glue.c.obj
+[359/1047] Building C object esp-idf/esp_adc/CMakeFiles/__idf_esp_adc.dir/adc_continuous.c.obj
+[360/1047] Building C object esp-idf/esp_adc/CMakeFiles/__idf_esp_adc.dir/adc_monitor.c.obj
+[361/1047] Building C object esp-idf/esp_gdbstub/CMakeFiles/__idf_esp_gdbstub.dir/src/packet.c.obj
+[362/1047] Building C object esp-idf/esp_eth/CMakeFiles/__idf_esp_eth.dir/src/esp_eth.c.obj
+[363/1047] Building C object esp-idf/esp_eth/CMakeFiles/__idf_esp_eth.dir/src/esp_eth_phy_802_3.c.obj
+[364/1047] Building C object esp-idf/esp_gdbstub/CMakeFiles/__idf_esp_gdbstub.dir/src/gdbstub_transport.c.obj
+[365/1047] Building ASM object esp-idf/esp_gdbstub/CMakeFiles/__idf_esp_gdbstub.dir/src/port/xtensa/gdbstub-entry.S.obj
+[366/1047] Building ASM object esp-idf/esp_gdbstub/CMakeFiles/__idf_esp_gdbstub.dir/src/port/xtensa/xt_debugexception.S.obj
+[367/1047] Building C object esp-idf/esp_gdbstub/CMakeFiles/__idf_esp_gdbstub.dir/src/port/xtensa/gdbstub_xtensa.c.obj
+[368/1047] Building C object esp-idf/esp_gdbstub/CMakeFiles/__idf_esp_gdbstub.dir/src/gdbstub.c.obj
+[369/1047] Building C object esp-idf/tcp_transport/CMakeFiles/__idf_tcp_transport.dir/transport.c.obj
+[370/1047] Building C object esp-idf/http_parser/CMakeFiles/__idf_http_parser.dir/http_parser.c.obj
+[371/1047] Building C object esp-idf/tcp_transport/CMakeFiles/__idf_tcp_transport.dir/transport_socks_proxy.c.obj
+[372/1047] Building C object esp-idf/tcp_transport/CMakeFiles/__idf_tcp_transport.dir/transport_ssl.c.obj
+[373/1047] Building C object esp-idf/tcp_transport/CMakeFiles/__idf_tcp_transport.dir/transport_internal.c.obj
+[374/1047] Building C object esp-idf/esp_http_client/CMakeFiles/__idf_esp_http_client.dir/lib/http_header.c.obj
+[375/1047] Building C object esp-idf/esp_http_client/CMakeFiles/__idf_esp_http_client.dir/lib/http_auth.c.obj
+[376/1047] Building C object esp-idf/esp_http_client/CMakeFiles/__idf_esp_http_client.dir/lib/http_utils.c.obj
+[377/1047] Building C object esp-idf/esp_http_server/CMakeFiles/__idf_esp_http_server.dir/src/httpd_sess.c.obj
+[378/1047] Building C object esp-idf/esp_http_client/CMakeFiles/__idf_esp_http_client.dir/esp_http_client.c.obj
+[379/1047] Building C object esp-idf/esp_http_server/CMakeFiles/__idf_esp_http_server.dir/src/httpd_parse.c.obj
+[380/1047] Building C object esp-idf/esp_http_server/CMakeFiles/__idf_esp_http_server.dir/src/httpd_uri.c.obj
+[381/1047] Building C object esp-idf/tcp_transport/CMakeFiles/__idf_tcp_transport.dir/transport_ws.c.obj
+[382/1047] Building C object esp-idf/esp_http_server/CMakeFiles/__idf_esp_http_server.dir/src/httpd_main.c.obj
+[383/1047] Building C object esp-idf/esp_http_server/CMakeFiles/__idf_esp_http_server.dir/src/httpd_ws.c.obj
+[384/1047] Building C object esp-idf/esp_http_server/CMakeFiles/__idf_esp_http_server.dir/src/util/ctrl_sock.c.obj
+[385/1047] Building C object esp-idf/esp_psram/CMakeFiles/__idf_esp_psram.dir/esp_psram.c.obj
+[386/1047] Building C object esp-idf/esp_psram/CMakeFiles/__idf_esp_psram.dir/esp32s3/esp_psram_impl_octal.c.obj
+[387/1047] Building C object esp-idf/esp_http_server/CMakeFiles/__idf_esp_http_server.dir/src/httpd_txrx.c.obj
+[388/1047] Building C object esp-idf/esp_psram/CMakeFiles/__idf_esp_psram.dir/mmu_psram_flash.c.obj
+[389/1047] Building C object esp-idf/esp_https_ota/CMakeFiles/__idf_esp_https_ota.dir/src/esp_https_ota.c.obj
+[390/1047] Linking C static library esp-idf/esp_psram/libesp_psram.a
+[391/1047] Linking C static library esp-idf/esp_https_ota/libesp_https_ota.a
+[392/1047] Linking C static library esp-idf/esp_http_server/libesp_http_server.a
+[393/1047] Linking C static library esp-idf/esp_http_client/libesp_http_client.a
+[394/1047] Linking C static library esp-idf/tcp_transport/libtcp_transport.a
+[395/1047] Linking C static library esp-idf/esp_gdbstub/libesp_gdbstub.a
+[396/1047] Linking C static library esp-idf/esp_eth/libesp_eth.a
+[397/1047] Linking C static library esp-idf/esp_adc/libesp_adc.a
+[398/1047] Linking C static library esp-idf/esp-tls/libesp-tls.a
+[399/1047] Linking C static library esp-idf/http_parser/libhttp_parser.a
+[400/1047] Linking C static library esp-idf/esp_wifi/libesp_wifi.a
+[401/1047] Linking C static library esp-idf/esp_coex/libesp_coex.a
+[402/1047] Linking C static library esp-idf/wpa_supplicant/libwpa_supplicant.a
+[403/1047] Linking C static library esp-idf/esp_netif/libesp_netif.a
+[404/1047] Linking C static library esp-idf/lwip/liblwip.a
+[405/1047] Linking C static library esp-idf/vfs/libvfs.a
+[406/1047] Linking C static library esp-idf/esp_phy/libesp_phy.a
+[407/1047] Linking C static library esp-idf/nvs_flash/libnvs_flash.a
+[408/1047] Linking C static library esp-idf/esp_event/libesp_event.a
+[409/1047] Linking C static library esp-idf/esp_timer/libesp_timer.a
+[410/1047] Linking C static library esp-idf/esp_common/libesp_common.a
+[411/1047] Linking C static library esp-idf/cxx/libcxx.a
+[412/1047] Linking C static library esp-idf/newlib/libnewlib.a
+[413/1047] Linking C static library esp-idf/freertos/libfreertos.a
+[414/1047] Linking C static library esp-idf/esp_hw_support/libesp_hw_support.a
+[415/1047] Linking C static library esp-idf/soc/libsoc.a
+[416/1047] Linking C static library esp-idf/heap/libheap.a
+[417/1047] Linking C static library esp-idf/log/liblog.a
+[418/1047] Linking C static library esp-idf/hal/libhal.a
+[419/1047] Linking C static library esp-idf/esp_rom/libesp_rom.a
+[420/1047] Linking C static library esp-idf/esp_system/libesp_system.a
+[421/1047] Linking C static library esp-idf/pthread/libpthread.a
+[422/1047] Linking C static library esp-idf/spi_flash/libspi_flash.a
+[423/1047] Linking C static library esp-idf/app_update/libapp_update.a
+[424/1047] Linking C static library esp-idf/esp_partition/libesp_partition.a
+[425/1047] Linking C static library esp-idf/bootloader_support/libbootloader_support.a
+[426/1047] Linking C static library esp-idf/esp_app_format/libesp_app_format.a
+[427/1047] Linking C static library esp-idf/esp_bootloader_format/libesp_bootloader_format.a
+[428/1047] Linking CXX static library esp-idf/mbedtls/mbedtls/library/libmbedtls.a
+[429/1047] Linking CXX static library esp-idf/mbedtls/mbedtls/library/libmbedx509.a
+[430/1047] Linking CXX static library esp-idf/mbedtls/mbedtls/library/libmbedcrypto.a
+[431/1047] Linking CXX static library esp-idf/mbedtls/mbedtls/3rdparty/p256-m/libp256m.a
+[432/1047] Linking CXX static library esp-idf/mbedtls/mbedtls/3rdparty/everest/libeverest.a
+[433/1047] Generating x509_crt_bundle
+[434/1047] Generating ../../x509_crt_bundle.S
+[435/1047] Building C object esp-idf/xtensa/CMakeFiles/__idf_xtensa.dir/eri.c.obj
+[436/1047] Building ASM object esp-idf/xtensa/CMakeFiles/__idf_xtensa.dir/xtensa_context.S.obj
+[437/1047] Building ASM object esp-idf/xtensa/CMakeFiles/__idf_xtensa.dir/xtensa_intr_asm.S.obj
+[438/1047] Building C object esp-idf/xtensa/CMakeFiles/__idf_xtensa.dir/xtensa_intr.c.obj
+[439/1047] Building C object esp-idf/xtensa/CMakeFiles/__idf_xtensa.dir/xt_trax.c.obj
+[440/1047] Building ASM object esp-idf/xtensa/CMakeFiles/__idf_xtensa.dir/xtensa_vectors.S.obj
+[441/1047] Building C object esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32s3/esp_efuse_rtc_calib.c.obj
+[442/1047] Building C object esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32s3/esp_efuse_fields.c.obj
+[443/1047] Building C object esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_fields.c.obj
+[444/1047] Building C object esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32s3/esp_efuse_table.c.obj
+[445/1047] Building C object esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32s3/esp_efuse_utility.c.obj
+[446/1047] Building C object esp-idf/esp_ringbuf/CMakeFiles/__idf_esp_ringbuf.dir/ringbuf.c.obj
+[447/1047] Building C object esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_api.c.obj
+[448/1047] Building C object esp-idf/esp_mm/CMakeFiles/__idf_esp_mm.dir/port/esp32s3/ext_mem_layout.c.obj
+[449/1047] Building C object esp-idf/esp_mm/CMakeFiles/__idf_esp_mm.dir/esp_cache.c.obj
+[450/1047] Building C object esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/efuse_controller/keys/with_key_purposes/esp_efuse_api_key.c.obj
+[451/1047] Building C object esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_utility.c.obj
+[452/1047] Building C object esp-idf/esp_mm/CMakeFiles/__idf_esp_mm.dir/esp_mmu_map.c.obj
+[453/1047] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/gpio/gpio_glitch_filter_ops.c.obj
+[454/1047] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/spi/spi_bus_lock.c.obj
+[455/1047] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/gpio/rtc_io.c.obj
+[456/1047] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/gpio/dedic_gpio.c.obj
+[457/1047] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/gpio/gpio_pin_glitch_filter.c.obj
+[458/1047] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/deprecated/adc_dma_legacy.c.obj
+[459/1047] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/mcpwm/mcpwm_cap.c.obj
+[460/1047] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/gpio/gpio.c.obj
+[461/1047] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/gptimer/gptimer_priv.c.obj
+[462/1047] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/deprecated/adc_legacy.c.obj
+[463/1047] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/gptimer/gptimer.c.obj
+[464/1047] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/mcpwm/mcpwm_cmpr.c.obj
+[465/1047] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/deprecated/timer_legacy.c.obj
+[466/1047] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/i2c/i2c_common.c.obj
+[467/1047] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/i2c/i2c_slave.c.obj
+[468/1047] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/i2s/i2s_platform.c.obj
+[469/1047] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/i2c/i2c_master.c.obj
+[470/1047] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/i2s/i2s_pdm.c.obj
+[471/1047] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/i2s/i2s_std.c.obj
+[472/1047] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/i2s/i2s_tdm.c.obj
+[473/1047] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/deprecated/i2s_legacy.c.obj
+[474/1047] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/i2s/i2s_common.c.obj
+[475/1047] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/i2c/i2c.c.obj
+[476/1047] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/mcpwm/mcpwm_fault.c.obj
+[477/1047] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/mcpwm/mcpwm_sync.c.obj
+[478/1047] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/mcpwm/mcpwm_com.c.obj
+[479/1047] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/ledc/ledc.c.obj
+[480/1047] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/mcpwm/mcpwm_gen.c.obj
+[481/1047] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/mcpwm/mcpwm_timer.c.obj
+[482/1047] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/mcpwm/mcpwm_oper.c.obj
+[483/1047] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/rmt/rmt_common.c.obj
+[484/1047] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/sdmmc/sdmmc_transaction.c.obj
+[485/1047] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/deprecated/pcnt_legacy.c.obj
+[486/1047] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/pcnt/pulse_cnt.c.obj
+[487/1047] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/rmt/rmt_encoder.c.obj
+[488/1047] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/rmt/rmt_rx.c.obj
+[489/1047] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/sigma_delta/sdm.c.obj
+[490/1047] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/spi/sdspi/sdspi_crc.c.obj
+[491/1047] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/sdmmc/sdmmc_host.c.obj
+[492/1047] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/rmt/rmt_tx.c.obj
+[493/1047] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/deprecated/sigma_delta_legacy.c.obj
+[494/1047] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/spi/gpspi/spi_common.c.obj
+[495/1047] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/spi/gpspi/spi_slave.c.obj
+[496/1047] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/deprecated/mcpwm_legacy.c.obj
+[497/1047] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/spi/sdspi/sdspi_host.c.obj
+[498/1047] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/deprecated/rtc_temperature_legacy.c.obj
+[499/1047] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/spi/sdspi/sdspi_transaction.c.obj
+[500/1047] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/touch_sensor/touch_sensor_common.c.obj
+[501/1047] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/temperature_sensor/temperature_sensor.c.obj
+[502/1047] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/usb_serial_jtag/usb_serial_jtag_connection_monitor.c.obj
+[503/1047] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/spi/gpspi/spi_master.c.obj
+[504/1047] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/spi/gpspi/spi_slave_hd.c.obj
+[505/1047] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/deprecated/rmt_legacy.c.obj
+[506/1047] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/usb_serial_jtag/usb_serial_jtag.c.obj
+[507/1047] Building C object esp-idf/esp_pm/CMakeFiles/__idf_esp_pm.dir/pm_locks.c.obj
+[508/1047] Building C object esp-idf/esp_pm/CMakeFiles/__idf_esp_pm.dir/pm_trace.c.obj
+[509/1047] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/twai/twai.c.obj
+[510/1047] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/touch_sensor/esp32s3/touch_sensor.c.obj
+[511/1047] Building C object esp-idf/esp_pm/CMakeFiles/__idf_esp_pm.dir/pm_impl.c.obj
+[512/1047] Building ASM object esp-idf/mbedtls/CMakeFiles/__idf_mbedtls.dir/__/__/x509_crt_bundle.S.obj
+[513/1047] Building C object esp-idf/mbedtls/CMakeFiles/__idf_mbedtls.dir/esp_crt_bundle/esp_crt_bundle.c.obj
+[514/1047] Linking C static library esp-idf/mbedtls/libmbedtls.a
+[515/1047] Linking C static library esp-idf/esp_pm/libesp_pm.a
+[516/1047] Building C object esp-idf/wifi_provisioning/CMakeFiles/__idf_wifi_provisioning.dir/src/wifi_config.c.obj
+[517/1047] Building C object esp-idf/wifi_provisioning/CMakeFiles/__idf_wifi_provisioning.dir/src/wifi_ctrl.c.obj
+[518/1047] Building C object esp-idf/wifi_provisioning/CMakeFiles/__idf_wifi_provisioning.dir/src/wifi_scan.c.obj
+[519/1047] Building C object esp-idf/wifi_provisioning/CMakeFiles/__idf_wifi_provisioning.dir/src/handlers.c.obj
+[520/1047] Building C object esp-idf/app_trace/CMakeFiles/__idf_app_trace.dir/host_file_io.c.obj
+[521/1047] Building C object esp-idf/app_trace/CMakeFiles/__idf_app_trace.dir/port/port_uart.c.obj
+[522/1047] Building C object esp-idf/app_trace/CMakeFiles/__idf_app_trace.dir/app_trace_util.c.obj
+[523/1047] Building C object esp-idf/unity/CMakeFiles/__idf_unity.dir/unity_utils_freertos.c.obj
+[524/1047] Building C object esp-idf/app_trace/CMakeFiles/__idf_app_trace.dir/app_trace.c.obj
+[525/1047] Building C object esp-idf/unity/CMakeFiles/__idf_unity.dir/unity_utils_cache.c.obj
+[526/1047] Building C object esp-idf/unity/CMakeFiles/__idf_unity.dir/unity/src/unity.c.obj
+[527/1047] Building C object esp-idf/unity/CMakeFiles/__idf_unity.dir/unity_runner.c.obj
+[528/1047] Building C object esp-idf/unity/CMakeFiles/__idf_unity.dir/port/esp/unity_utils_memory_esp.c.obj
+[529/1047] Building C object esp-idf/unity/CMakeFiles/__idf_unity.dir/unity_utils_memory.c.obj
+[530/1047] Building C object esp-idf/console/CMakeFiles/__idf_console.dir/split_argv.c.obj
+[531/1047] Building C object esp-idf/console/CMakeFiles/__idf_console.dir/commands.c.obj
+[532/1047] Building C object esp-idf/unity/CMakeFiles/__idf_unity.dir/unity_port_esp32.c.obj
+[533/1047] Building C object esp-idf/cmock/CMakeFiles/__idf_cmock.dir/CMock/src/cmock.c.obj
+[534/1047] Building C object esp-idf/console/CMakeFiles/__idf_console.dir/argtable3/arg_dbl.c.obj
+[535/1047] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/uart/uart.c.obj
+[536/1047] Building C object esp-idf/console/CMakeFiles/__idf_console.dir/esp_console_repl.c.obj
+[537/1047] Building C object esp-idf/console/CMakeFiles/__idf_console.dir/argtable3/arg_date.c.obj
+[538/1047] Building C object esp-idf/console/CMakeFiles/__idf_console.dir/linenoise/linenoise.c.obj
+[539/1047] Building C object esp-idf/console/CMakeFiles/__idf_console.dir/argtable3/arg_cmd.c.obj
+[540/1047] Building C object esp-idf/console/CMakeFiles/__idf_console.dir/argtable3/arg_end.c.obj
+[541/1047] Building C object esp-idf/console/CMakeFiles/__idf_console.dir/argtable3/arg_dstr.c.obj
+[542/1047] Building C object esp-idf/console/CMakeFiles/__idf_console.dir/argtable3/arg_rem.c.obj
+[543/1047] Linking C static library esp-idf/driver/libdriver.a
+[544/1047] Building C object esp-idf/console/CMakeFiles/__idf_console.dir/argtable3/arg_lit.c.obj
+[545/1047] Building C object esp-idf/console/CMakeFiles/__idf_console.dir/argtable3/arg_file.c.obj
+[546/1047] Building C object esp-idf/console/CMakeFiles/__idf_console.dir/argtable3/arg_hashtable.c.obj
+[547/1047] Linking C static library esp-idf/esp_mm/libesp_mm.a
+[548/1047] Building C object esp-idf/console/CMakeFiles/__idf_console.dir/argtable3/arg_int.c.obj
+[549/1047] Linking C static library esp-idf/efuse/libefuse.a
+[550/1047] Building C object esp-idf/console/CMakeFiles/__idf_console.dir/argtable3/arg_utils.c.obj
+[551/1047] Building C object esp-idf/console/CMakeFiles/__idf_console.dir/argtable3/arg_str.c.obj
+[552/1047] Linking C static library esp-idf/esp_ringbuf/libesp_ringbuf.a
+[553/1047] Linking C static library esp-idf/xtensa/libxtensa.a
+[554/1047] Building C object esp-idf/esp_hid/CMakeFiles/__idf_esp_hid.dir/src/esp_hid_common.c.obj
+[555/1047] Building C object esp-idf/console/CMakeFiles/__idf_console.dir/argtable3/arg_rex.c.obj
+[556/1047] Linking C static library esp-idf/app_trace/libapp_trace.a
+[557/1047] Building C object esp-idf/esp_hid/CMakeFiles/__idf_esp_hid.dir/src/esp_hidd.c.obj
+[558/1047] Linking C static library esp-idf/unity/libunity.a
+[559/1047] Linking C static library esp-idf/cmock/libcmock.a
+[560/1047] Building C object esp-idf/esp_lcd/CMakeFiles/__idf_esp_lcd.dir/src/esp_lcd_panel_io.c.obj
+[561/1047] Building C object esp-idf/esp_lcd/CMakeFiles/__idf_esp_lcd.dir/src/esp_lcd_common.c.obj
+[562/1047] Building C object esp-idf/console/CMakeFiles/__idf_console.dir/argtable3/argtable3.c.obj
+[563/1047] Linking C static library esp-idf/console/libconsole.a
+[564/1047] Building C object esp-idf/esp_lcd/CMakeFiles/__idf_esp_lcd.dir/src/esp_lcd_panel_io_i2c_v1.c.obj
+[565/1047] Building C object esp-idf/esp_lcd/CMakeFiles/__idf_esp_lcd.dir/src/esp_lcd_panel_ops.c.obj
+[566/1047] Building C object esp-idf/esp_lcd/CMakeFiles/__idf_esp_lcd.dir/src/esp_lcd_panel_io_i2c_v2.c.obj
+[567/1047] Building C object esp-idf/esp_hid/CMakeFiles/__idf_esp_hid.dir/src/esp_hidh.c.obj
+[568/1047] Linking C static library esp-idf/esp_hid/libesp_hid.a
+[569/1047] Building C object esp-idf/esp_lcd/CMakeFiles/__idf_esp_lcd.dir/src/esp_lcd_panel_ssd1306.c.obj
+[570/1047] Building C object esp-idf/esp_lcd/CMakeFiles/__idf_esp_lcd.dir/src/esp_lcd_panel_io_spi.c.obj
+[571/1047] Building C object esp-idf/esp_lcd/CMakeFiles/__idf_esp_lcd.dir/src/esp_lcd_panel_nt35510.c.obj
+[572/1047] Building C object esp-idf/esp_lcd/CMakeFiles/__idf_esp_lcd.dir/src/esp_lcd_panel_st7789.c.obj
+[573/1047] Building C object esp-idf/protocomm/CMakeFiles/__idf_protocomm.dir/src/common/protocomm.c.obj
+[574/1047] Building C object esp-idf/protocomm/CMakeFiles/__idf_protocomm.dir/proto-c/sec2.pb-c.c.obj
+[575/1047] Building C object esp-idf/protocomm/CMakeFiles/__idf_protocomm.dir/proto-c/sec1.pb-c.c.obj
+[576/1047] Building C object esp-idf/protocomm/CMakeFiles/__idf_protocomm.dir/proto-c/constants.pb-c.c.obj
+[577/1047] Building C object esp-idf/protocomm/CMakeFiles/__idf_protocomm.dir/proto-c/sec0.pb-c.c.obj
+[578/1047] Building C object esp-idf/protocomm/CMakeFiles/__idf_protocomm.dir/proto-c/session.pb-c.c.obj
+[579/1047] Building C object esp-idf/protocomm/CMakeFiles/__idf_protocomm.dir/src/transports/protocomm_httpd.c.obj
+[580/1047] Building C object esp-idf/protocomm/CMakeFiles/__idf_protocomm.dir/src/security/security0.c.obj
+[581/1047] Building C object esp-idf/protocomm/CMakeFiles/__idf_protocomm.dir/src/transports/protocomm_console.c.obj
+[582/1047] Building C object esp-idf/esp_lcd/CMakeFiles/__idf_esp_lcd.dir/src/esp_lcd_panel_io_i80.c.obj
+[583/1047] Building C object esp-idf/esp_lcd/CMakeFiles/__idf_esp_lcd.dir/src/esp_lcd_panel_rgb.c.obj
+[584/1047] Building C object esp-idf/protocomm/CMakeFiles/__idf_protocomm.dir/src/crypto/srp6a/esp_srp.c.obj
+[585/1047] Linking C static library esp-idf/esp_lcd/libesp_lcd.a
+[586/1047] Building C object esp-idf/protocomm/CMakeFiles/__idf_protocomm.dir/src/crypto/srp6a/esp_srp_mpi.c.obj
+[587/1047] Building C object esp-idf/protocomm/CMakeFiles/__idf_protocomm.dir/src/security/security1.c.obj
+[588/1047] Building C object esp-idf/esp_local_ctrl/CMakeFiles/__idf_esp_local_ctrl.dir/proto-c/esp_local_ctrl.pb-c.c.obj
+[589/1047] Building C object esp-idf/esp_local_ctrl/CMakeFiles/__idf_esp_local_ctrl.dir/src/esp_local_ctrl_handler.c.obj
+[590/1047] Building C object esp-idf/protocomm/CMakeFiles/__idf_protocomm.dir/src/security/security2.c.obj
+[591/1047] Building C object esp-idf/esp_local_ctrl/CMakeFiles/__idf_esp_local_ctrl.dir/src/esp_local_ctrl.c.obj
+[592/1047] Building C object esp-idf/espcoredump/CMakeFiles/__idf_espcoredump.dir/src/core_dump_uart.c.obj
+[593/1047] Building C object esp-idf/espcoredump/CMakeFiles/__idf_espcoredump.dir/src/core_dump_elf.c.obj
+[594/1047] Building C object esp-idf/esp_local_ctrl/CMakeFiles/__idf_esp_local_ctrl.dir/src/esp_local_ctrl_transport_httpd.c.obj
+[595/1047] Building C object esp-idf/espcoredump/CMakeFiles/__idf_espcoredump.dir/src/core_dump_checksum.c.obj
+[596/1047] Building C object esp-idf/protobuf-c/CMakeFiles/__idf_protobuf-c.dir/protobuf-c/protobuf-c/protobuf-c.c.obj
+[597/1047] Linking C static library esp-idf/protobuf-c/libprotobuf-c.a
+[598/1047] Building C object esp-idf/espcoredump/CMakeFiles/__idf_espcoredump.dir/src/core_dump_common.c.obj
+[599/1047] Building CXX object esp-idf/wear_levelling/CMakeFiles/__idf_wear_levelling.dir/Partition.cpp.obj
+[600/1047] Building C object esp-idf/espcoredump/CMakeFiles/__idf_espcoredump.dir/src/core_dump_flash.c.obj
+[601/1047] Linking C static library esp-idf/protocomm/libprotocomm.a
+[602/1047] Building C object esp-idf/espcoredump/CMakeFiles/__idf_espcoredump.dir/src/port/xtensa/core_dump_port.c.obj
+[603/1047] Linking C static library esp-idf/esp_local_ctrl/libesp_local_ctrl.a
+[604/1047] Building C object esp-idf/espcoredump/CMakeFiles/__idf_espcoredump.dir/src/core_dump_binary.c.obj
+[605/1047] Linking C static library esp-idf/espcoredump/libespcoredump.a
+[606/1047] Building CXX object esp-idf/wear_levelling/CMakeFiles/__idf_wear_levelling.dir/crc32.cpp.obj
+[607/1047] Building CXX object esp-idf/wear_levelling/CMakeFiles/__idf_wear_levelling.dir/WL_Ext_Perf.cpp.obj
+[608/1047] Building CXX object esp-idf/wear_levelling/CMakeFiles/__idf_wear_levelling.dir/SPI_Flash.cpp.obj
+[609/1047] Building CXX object esp-idf/wear_levelling/CMakeFiles/__idf_wear_levelling.dir/WL_Ext_Safe.cpp.obj
+[610/1047] Building CXX object esp-idf/wear_levelling/CMakeFiles/__idf_wear_levelling.dir/wear_levelling.cpp.obj
+[611/1047] Building C object esp-idf/sdmmc/CMakeFiles/__idf_sdmmc.dir/sdmmc_init.c.obj
+[612/1047] Building CXX object esp-idf/wear_levelling/CMakeFiles/__idf_wear_levelling.dir/WL_Flash.cpp.obj
+[613/1047] Building C object esp-idf/sdmmc/CMakeFiles/__idf_sdmmc.dir/sdmmc_sd.c.obj
+[614/1047] Linking C static library esp-idf/wear_levelling/libwear_levelling.a
+[615/1047] Building C object esp-idf/sdmmc/CMakeFiles/__idf_sdmmc.dir/sdmmc_common.c.obj
+[616/1047] Building C object esp-idf/sdmmc/CMakeFiles/__idf_sdmmc.dir/sdmmc_mmc.c.obj
+[617/1047] Building C object esp-idf/sdmmc/CMakeFiles/__idf_sdmmc.dir/sdmmc_cmd.c.obj
+[618/1047] Building C object esp-idf/sdmmc/CMakeFiles/__idf_sdmmc.dir/sdmmc_io.c.obj
+[619/1047] Building C object esp-idf/fatfs/CMakeFiles/__idf_fatfs.dir/diskio/diskio.c.obj
+[620/1047] Building C object esp-idf/fatfs/CMakeFiles/__idf_fatfs.dir/diskio/diskio_rawflash.c.obj
+[621/1047] Linking C static library esp-idf/sdmmc/libsdmmc.a
+[622/1047] Building C object esp-idf/fatfs/CMakeFiles/__idf_fatfs.dir/src/ffunicode.c.obj
+[623/1047] Building C object esp-idf/fatfs/CMakeFiles/__idf_fatfs.dir/diskio/diskio_wl.c.obj
+[624/1047] Building C object esp-idf/fatfs/CMakeFiles/__idf_fatfs.dir/port/freertos/ffsystem.c.obj
+[625/1047] Building C object esp-idf/fatfs/CMakeFiles/__idf_fatfs.dir/vfs/vfs_fat_spiflash.c.obj
+[626/1047] Building C object esp-idf/fatfs/CMakeFiles/__idf_fatfs.dir/diskio/diskio_sdmmc.c.obj
+[627/1047] Building C object esp-idf/fatfs/CMakeFiles/__idf_fatfs.dir/vfs/vfs_fat_sdmmc.c.obj
+[628/1047] Building C object esp-idf/json/CMakeFiles/__idf_json.dir/cJSON/cJSON_Utils.c.obj
+[629/1047] Building C object esp-idf/mqtt/CMakeFiles/__idf_mqtt.dir/esp-mqtt/lib/mqtt_msg.c.obj
+[630/1047] Building C object esp-idf/mqtt/CMakeFiles/__idf_mqtt.dir/esp-mqtt/lib/mqtt_outbox.c.obj
+[631/1047] Building C object esp-idf/fatfs/CMakeFiles/__idf_fatfs.dir/src/ff.c.obj
+[632/1047] Building C object esp-idf/fatfs/CMakeFiles/__idf_fatfs.dir/vfs/vfs_fat.c.obj
+[633/1047] Linking C static library esp-idf/fatfs/libfatfs.a
+[634/1047] Building C object esp-idf/perfmon/CMakeFiles/__idf_perfmon.dir/xtensa_perfmon_access.c.obj
+[635/1047] Building C object esp-idf/nvs_sec_provider/CMakeFiles/__idf_nvs_sec_provider.dir/nvs_sec_provider.c.obj
+[636/1047] Building C object esp-idf/perfmon/CMakeFiles/__idf_perfmon.dir/xtensa_perfmon_masks.c.obj
+[637/1047] Building C object esp-idf/mqtt/CMakeFiles/__idf_mqtt.dir/esp-mqtt/lib/platform_esp32_idf.c.obj
+[638/1047] Building C object esp-idf/perfmon/CMakeFiles/__idf_perfmon.dir/xtensa_perfmon_apis.c.obj
+[639/1047] Linking C static library esp-idf/nvs_sec_provider/libnvs_sec_provider.a
+[640/1047] Linking C static library esp-idf/perfmon/libperfmon.a
+[641/1047] Building C object esp-idf/json/CMakeFiles/__idf_json.dir/cJSON/cJSON.c.obj
+[642/1047] Building C object esp-idf/spiffs/CMakeFiles/__idf_spiffs.dir/spiffs_api.c.obj
+[643/1047] Linking C static library esp-idf/json/libjson.a
+[644/1047] Building C object esp-idf/spiffs/CMakeFiles/__idf_spiffs.dir/spiffs/src/spiffs_cache.c.obj
+[645/1047] Building C object esp-idf/spiffs/CMakeFiles/__idf_spiffs.dir/spiffs/src/spiffs_hydrogen.c.obj
+[646/1047] Building C object esp-idf/spiffs/CMakeFiles/__idf_spiffs.dir/spiffs/src/spiffs_check.c.obj
+[647/1047] Building C object esp-idf/mqtt/CMakeFiles/__idf_mqtt.dir/esp-mqtt/mqtt_client.c.obj
+[648/1047] Linking C static library esp-idf/mqtt/libmqtt.a
+[649/1047] Building C object esp-idf/spiffs/CMakeFiles/__idf_spiffs.dir/esp_spiffs.c.obj
+[650/1047] Building C object esp-idf/spiffs/CMakeFiles/__idf_spiffs.dir/spiffs/src/spiffs_gc.c.obj
+[651/1047] Building C object esp-idf/touch_element/CMakeFiles/__idf_touch_element.dir/touch_button.c.obj
+[652/1047] Building C object esp-idf/usb/CMakeFiles/__idf_usb.dir/usb_helpers.c.obj
+[653/1047] Building C object esp-idf/touch_element/CMakeFiles/__idf_touch_element.dir/touch_matrix.c.obj
+[654/1047] Building C object esp-idf/touch_element/CMakeFiles/__idf_touch_element.dir/touch_slider.c.obj
+[655/1047] Building C object esp-idf/usb/CMakeFiles/__idf_usb.dir/hub.c.obj
+[656/1047] Building C object esp-idf/touch_element/CMakeFiles/__idf_touch_element.dir/touch_element.c.obj
+[657/1047] Building C object esp-idf/usb/CMakeFiles/__idf_usb.dir/usb_phy.c.obj
+[658/1047] Building C object esp-idf/usb/CMakeFiles/__idf_usb.dir/usb_private.c.obj
+[659/1047] Linking C static library esp-idf/touch_element/libtouch_element.a
+[660/1047] Building C object esp-idf/wifi_provisioning/CMakeFiles/__idf_wifi_provisioning.dir/src/scheme_console.c.obj
+[661/1047] Building C object esp-idf/spiffs/CMakeFiles/__idf_spiffs.dir/spiffs/src/spiffs_nucleus.c.obj
+[662/1047] Linking C static library esp-idf/spiffs/libspiffs.a
+[663/1047] Building C object esp-idf/wifi_provisioning/CMakeFiles/__idf_wifi_provisioning.dir/proto-c/wifi_config.pb-c.c.obj
+[664/1047] Building C object esp-idf/wifi_provisioning/CMakeFiles/__idf_wifi_provisioning.dir/proto-c/wifi_ctrl.pb-c.c.obj
+[665/1047] Building C object esp-idf/usb/CMakeFiles/__idf_usb.dir/usbh.c.obj
+[666/1047] Building C object esp-idf/wifi_provisioning/CMakeFiles/__idf_wifi_provisioning.dir/proto-c/wifi_constants.pb-c.c.obj
+[667/1047] Building C object esp-idf/usb/CMakeFiles/__idf_usb.dir/hcd_dwc.c.obj
+[668/1047] Building C object esp-idf/usb/CMakeFiles/__idf_usb.dir/usb_host.c.obj
+[669/1047] Linking C static library esp-idf/usb/libusb.a
+[670/1047] Building C object esp-idf/wifi_provisioning/CMakeFiles/__idf_wifi_provisioning.dir/src/scheme_softap.c.obj
+[671/1047] Building C object esp-idf/wifi_provisioning/CMakeFiles/__idf_wifi_provisioning.dir/proto-c/wifi_scan.pb-c.c.obj
+[672/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/core/lv_group.c.obj
+[673/1047] Building C object esp-idf/espressif__esp_lcd_st7701/CMakeFiles/__idf_espressif__esp_lcd_st7701.dir/esp_lcd_st7701.c.obj
+[674/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/core/lv_disp.c.obj
+[675/1047] Linking C static library esp-idf/espressif__esp_lcd_st7701/libespressif__esp_lcd_st7701.a
+[676/1047] Building C object esp-idf/wifi_provisioning/CMakeFiles/__idf_wifi_provisioning.dir/src/manager.c.obj
+[677/1047] Linking C static library esp-idf/wifi_provisioning/libwifi_provisioning.a
+[678/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/core/lv_event.c.obj
+[679/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/core/lv_obj_tree.c.obj
+[680/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/core/lv_indev.c.obj
+[681/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/core/lv_indev_scroll.c.obj
+[682/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/core/lv_obj_class.c.obj
+[683/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/core/lv_obj_draw.c.obj
+[684/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/core/lv_obj.c.obj
+[685/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/draw/lv_draw.c.obj
+[686/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/core/lv_obj_pos.c.obj
+[687/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/core/lv_obj_scroll.c.obj
+[688/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/core/lv_obj_style.c.obj
+[689/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/core/lv_obj_style_gen.c.obj
+[690/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/draw/arm2d/lv_gpu_arm2d.c.obj
+[691/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/draw/lv_draw_rect.c.obj
+[692/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/core/lv_theme.c.obj
+[693/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/core/lv_refr.c.obj
+[694/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/draw/lv_draw_arc.c.obj
+[695/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/draw/lv_draw_line.c.obj
+[696/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/draw/lv_img_cache.c.obj
+[697/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/draw/lv_draw_transform.c.obj
+[698/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/draw/lv_draw_label.c.obj
+[699/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/draw/lv_draw_layer.c.obj
+[700/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/draw/lv_draw_img.c.obj
+[701/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/draw/sdl/lv_draw_sdl_composite.c.obj
+[702/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/draw/lv_draw_triangle.c.obj
+[703/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/draw/nxp/pxp/lv_draw_pxp.c.obj
+[704/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/draw/nxp/pxp/lv_gpu_nxp_pxp.c.obj
+[705/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/draw/nxp/pxp/lv_draw_pxp_blend.c.obj
+[706/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/draw/nxp/pxp/lv_gpu_nxp_pxp_osa.c.obj
+[707/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/draw/nxp/vglite/lv_draw_vglite_arc.c.obj
+[708/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/draw/nxp/vglite/lv_draw_vglite_blend.c.obj
+[709/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/draw/lv_img_buf.c.obj
+[710/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/draw/nxp/vglite/lv_draw_vglite.c.obj
+[711/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/draw/nxp/vglite/lv_draw_vglite_line.c.obj
+[712/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/draw/nxp/vglite/lv_draw_vglite_rect.c.obj
+[713/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/draw/nxp/vglite/lv_vglite_buf.c.obj
+[714/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/draw/lv_img_decoder.c.obj
+[715/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/draw/renesas/lv_gpu_d2_draw_label.c.obj
+[716/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/draw/nxp/vglite/lv_vglite_utils.c.obj
+[717/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/draw/sdl/lv_draw_sdl.c.obj
+[718/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/draw/renesas/lv_gpu_d2_ra6m3.c.obj
+[719/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/draw/sdl/lv_draw_sdl_arc.c.obj
+[720/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/draw/sdl/lv_draw_sdl_bg.c.obj
+[721/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/draw/sdl/lv_draw_sdl_label.c.obj
+[722/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/draw/sdl/lv_draw_sdl_img.c.obj
+[723/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/draw/sdl/lv_draw_sdl_layer.c.obj
+[724/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/draw/sdl/lv_draw_sdl_line.c.obj
+[725/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/draw/sw/lv_draw_sw_layer.c.obj
+[726/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/draw/sdl/lv_draw_sdl_mask.c.obj
+[727/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/draw/sdl/lv_draw_sdl_polygon.c.obj
+[728/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/draw/sdl/lv_draw_sdl_utils.c.obj
+[729/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/draw/sdl/lv_draw_sdl_rect.c.obj
+[730/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/draw/sdl/lv_draw_sdl_texture_cache.c.obj
+[731/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/draw/sdl/lv_draw_sdl_stack_blur.c.obj
+[732/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/draw/sw/lv_draw_sw.c.obj
+[733/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/draw/sw/lv_draw_sw_dither.c.obj
+[734/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/draw/stm32_dma2d/lv_gpu_stm32_dma2d.c.obj
+[735/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/draw/lv_draw_mask.c.obj
+[736/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/draw/sw/lv_draw_sw_gradient.c.obj
+[737/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/draw/sw/lv_draw_sw_blend.c.obj
+[738/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/draw/sw/lv_draw_sw_arc.c.obj
+[739/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/draw/sw/lv_draw_sw_polygon.c.obj
+[740/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/draw/sw/lv_draw_sw_img.c.obj
+[741/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/draw/sw/lv_draw_sw_line.c.obj
+[742/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/draw/sw/lv_draw_sw_letter.c.obj
+[743/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/extra/widgets/list/lv_list.c.obj
+[744/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/draw/swm341_dma2d/lv_gpu_swm341_dma2d.c.obj
+[745/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/draw/sw/lv_draw_sw_transform.c.obj
+[746/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/extra/layouts/grid/lv_grid.c.obj
+[747/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/extra/libs/bmp/lv_bmp.c.obj
+[748/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/extra/libs/ffmpeg/lv_ffmpeg.c.obj
+[749/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/extra/layouts/flex/lv_flex.c.obj
+[750/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/draw/sw/lv_draw_sw_rect.c.obj
+[751/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/extra/libs/fsdrv/lv_fs_littlefs.c.obj
+[752/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/extra/libs/freetype/lv_freetype.c.obj
+[753/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/extra/libs/fsdrv/lv_fs_stdio.c.obj
+[754/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/extra/libs/gif/gifdec.c.obj
+[755/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/extra/libs/fsdrv/lv_fs_fatfs.c.obj
+[756/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/extra/libs/fsdrv/lv_fs_posix.c.obj
+[757/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/extra/libs/fsdrv/lv_fs_win32.c.obj
+[758/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/extra/libs/png/lodepng.c.obj
+[759/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/extra/libs/png/lv_png.c.obj
+[760/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/extra/libs/qrcode/lv_qrcode.c.obj
+[761/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/extra/libs/sjpg/tjpgd.c.obj
+[762/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/extra/libs/rlottie/lv_rlottie.c.obj
+[763/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/extra/libs/gif/lv_gif.c.obj
+[764/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/extra/libs/tiny_ttf/lv_tiny_ttf.c.obj
+[765/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/extra/others/fragment/lv_fragment.c.obj
+[766/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/extra/libs/sjpg/lv_sjpg.c.obj
+[767/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/extra/others/fragment/lv_fragment_manager.c.obj
+[768/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/extra/others/gridnav/lv_gridnav.c.obj
+[769/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/extra/lv_extra.c.obj
+[770/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/extra/others/ime/lv_ime_pinyin.c.obj
+[771/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/extra/others/msg/lv_msg.c.obj
+[772/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/extra/others/snapshot/lv_snapshot.c.obj
+[773/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/extra/others/imgfont/lv_imgfont.c.obj
+[774/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/extra/others/monkey/lv_monkey.c.obj
+[775/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/extra/themes/basic/lv_theme_basic.c.obj
+[776/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/extra/libs/qrcode/qrcodegen.c.obj
+[777/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/extra/widgets/calendar/lv_calendar_header_dropdown.c.obj
+[778/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/extra/themes/mono/lv_theme_mono.c.obj
+[779/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/extra/widgets/calendar/lv_calendar.c.obj
+[780/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/extra/widgets/calendar/lv_calendar_header_arrow.c.obj
+[781/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/extra/widgets/animimg/lv_animimg.c.obj
+[782/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/extra/widgets/colorwheel/lv_colorwheel.c.obj
+[783/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/extra/widgets/keyboard/lv_keyboard.c.obj
+[784/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/extra/widgets/led/lv_led.c.obj
+[785/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/font/lv_font.c.obj
+[786/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/extra/widgets/imgbtn/lv_imgbtn.c.obj
+[787/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/extra/themes/default/lv_theme_default.c.obj
+[788/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/extra/widgets/msgbox/lv_msgbox.c.obj
+[789/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/extra/widgets/menu/lv_menu.c.obj
+[790/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/extra/widgets/spinbox/lv_spinbox.c.obj
+[791/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/extra/widgets/spinner/lv_spinner.c.obj
+[792/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/extra/widgets/meter/lv_meter.c.obj
+[793/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/extra/widgets/tabview/lv_tabview.c.obj
+[794/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/extra/widgets/span/lv_span.c.obj
+[795/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/extra/widgets/tileview/lv_tileview.c.obj
+[796/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/extra/widgets/win/lv_win.c.obj
+[797/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/hal/lv_hal_indev.c.obj
+[798/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/font/lv_font_dejavu_16_persian_hebrew.c.obj
+[799/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/font/lv_font_montserrat_12_subpx.c.obj
+[800/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/font/lv_font_fmt_txt.c.obj
+[801/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/font/lv_font_loader.c.obj
+[802/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/font/lv_font_montserrat_10.c.obj
+[803/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/font/lv_font_montserrat_18.c.obj
+[804/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/extra/widgets/chart/lv_chart.c.obj
+[805/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/font/lv_font_montserrat_12.c.obj
+[806/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/font/lv_font_montserrat_16.c.obj
+[807/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/font/lv_font_montserrat_20.c.obj
+[808/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/font/lv_font_montserrat_14.c.obj
+[809/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/font/lv_font_montserrat_24.c.obj
+[810/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/font/lv_font_montserrat_22.c.obj
+[811/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/font/lv_font_montserrat_28_compressed.c.obj
+[812/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/font/lv_font_montserrat_28.c.obj
+[813/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/font/lv_font_montserrat_26.c.obj
+[814/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/font/lv_font_montserrat_30.c.obj
+[815/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/font/lv_font_montserrat_34.c.obj
+[816/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/font/lv_font_montserrat_36.c.obj
+[817/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/font/lv_font_montserrat_40.c.obj
+[818/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/font/lv_font_montserrat_32.c.obj
+[819/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/font/lv_font_montserrat_38.c.obj
+[820/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/font/lv_font_montserrat_8.c.obj
+[821/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/font/lv_font_montserrat_48.c.obj
+[822/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/font/lv_font_montserrat_44.c.obj
+[823/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/font/lv_font_montserrat_46.c.obj
+[824/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/font/lv_font_montserrat_42.c.obj
+[825/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/hal/lv_hal_tick.c.obj
+[826/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/misc/lv_area.c.obj
+[827/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/font/lv_font_unscii_16.c.obj
+[828/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/font/lv_font_simsun_16_cjk.c.obj
+[829/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/misc/lv_async.c.obj
+[830/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/font/lv_font_unscii_8.c.obj
+[831/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/misc/lv_anim.c.obj
+[832/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/misc/lv_bidi.c.obj
+[833/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/misc/lv_math.c.obj
+[834/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/misc/lv_anim_timeline.c.obj
+[835/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/misc/lv_log.c.obj
+[836/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/misc/lv_ll.c.obj
+[837/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/misc/lv_lru.c.obj
+[838/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/misc/lv_color.c.obj
+[839/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/misc/lv_fs.c.obj
+[840/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/misc/lv_gc.c.obj
+[841/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/hal/lv_hal_disp.c.obj
+[842/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/misc/lv_mem.c.obj
+[843/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/misc/lv_templ.c.obj
+[844/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/misc/lv_style.c.obj
+[845/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/misc/lv_tlsf.c.obj
+[846/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/misc/lv_timer.c.obj
+[847/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/misc/lv_txt_ap.c.obj
+[848/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/misc/lv_style_gen.c.obj
+[849/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/misc/lv_utils.c.obj
+[850/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/widgets/lv_table.c.obj
+[851/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/misc/lv_txt.c.obj
+[852/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/misc/lv_printf.c.obj
+[853/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/widgets/lv_btn.c.obj
+[854/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/widgets/lv_bar.c.obj
+[855/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/widgets/lv_arc.c.obj
+[856/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/widgets/lv_checkbox.c.obj
+[857/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/widgets/lv_btnmatrix.c.obj
+[858/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/widgets/lv_objx_templ.c.obj
+[859/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/widgets/lv_canvas.c.obj
+[860/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/widgets/lv_img.c.obj
+[861/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/widgets/lv_dropdown.c.obj
+[862/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/widgets/lv_line.c.obj
+[863/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/widgets/lv_switch.c.obj
+[864/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/anim/lv_example_anim_1.c.obj
+[865/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/others/fragment/lv_example_fragment_2.c.obj
+[866/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/widgets/lv_roller.c.obj
+[867/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/widgets/lv_textarea.c.obj
+[868/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/widgets/lv_slider.c.obj
+[869/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/anim/lv_example_anim_2.c.obj
+[870/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/src/widgets/lv_label.c.obj
+[871/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/anim/lv_example_anim_3.c.obj
+[872/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/anim/lv_example_anim_timeline_1.c.obj
+[873/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/assets/animimg002.c.obj
+[874/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/assets/emoji/img_emoji_F617.c.obj
+[875/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/assets/animimg001.c.obj
+[876/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/assets/img_caret_down.c.obj
+[877/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/assets/img_cogwheel_chroma_keyed.c.obj
+[878/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/assets/img_cogwheel_alpha16.c.obj
+[879/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/assets/img_cogwheel_indexed16.c.obj
+[880/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/assets/img_cogwheel_argb.c.obj
+[881/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/assets/animimg003.c.obj
+[882/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/assets/img_star.c.obj
+[883/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/assets/img_skew_strip.c.obj
+[884/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/assets/img_hand.c.obj
+[885/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/assets/imgbtn_left.c.obj
+[886/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/assets/img_cogwheel_rgb.c.obj
+[887/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/assets/imgbtn_right.c.obj
+[888/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/event/lv_example_event_1.c.obj
+[889/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/event/lv_example_event_2.c.obj
+[890/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/assets/imgbtn_mid.c.obj
+[891/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/get_started/lv_example_get_started_3.c.obj
+[892/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/get_started/lv_example_get_started_2.c.obj
+[893/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/event/lv_example_event_3.c.obj
+[894/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/event/lv_example_event_4.c.obj
+[895/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/layouts/flex/lv_example_flex_3.c.obj
+[896/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/layouts/flex/lv_example_flex_1.c.obj
+[897/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/get_started/lv_example_get_started_1.c.obj
+[898/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/layouts/flex/lv_example_flex_2.c.obj
+[899/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/layouts/flex/lv_example_flex_4.c.obj
+[900/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/layouts/grid/lv_example_grid_2.c.obj
+[901/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/layouts/flex/lv_example_flex_5.c.obj
+[902/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/layouts/flex/lv_example_flex_6.c.obj
+[903/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/layouts/grid/lv_example_grid_3.c.obj
+[904/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/layouts/grid/lv_example_grid_1.c.obj
+[905/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/layouts/grid/lv_example_grid_5.c.obj
+[906/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/layouts/grid/lv_example_grid_4.c.obj
+[907/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/layouts/grid/lv_example_grid_6.c.obj
+[908/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/libs/ffmpeg/lv_example_ffmpeg_1.c.obj
+[909/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/libs/bmp/lv_example_bmp_1.c.obj
+[910/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/libs/freetype/lv_example_freetype_1.c.obj
+[911/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/libs/ffmpeg/lv_example_ffmpeg_2.c.obj
+[912/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/libs/gif/lv_example_gif_1.c.obj
+[913/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/libs/rlottie/lv_example_rlottie_2.c.obj
+[914/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/libs/png/img_wink_png.c.obj
+[915/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/libs/png/lv_example_png_1.c.obj
+[916/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/libs/qrcode/lv_example_qrcode_1.c.obj
+[917/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/libs/rlottie/lv_example_rlottie_approve.c.obj
+[918/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/libs/sjpg/lv_example_sjpg_1.c.obj
+[919/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/others/fragment/lv_example_fragment_1.c.obj
+[920/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/libs/gif/img_bulb_gif.c.obj
+[921/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/libs/rlottie/lv_example_rlottie_1.c.obj
+[922/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/others/msg/lv_example_msg_1.c.obj
+[923/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/others/msg/lv_example_msg_2.c.obj
+[924/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/others/gridnav/lv_example_gridnav_3.c.obj
+[925/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/others/ime/lv_example_ime_pinyin_1.c.obj
+[926/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/others/gridnav/lv_example_gridnav_1.c.obj
+[927/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/others/gridnav/lv_example_gridnav_2.c.obj
+[928/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/others/imgfont/lv_example_imgfont_1.c.obj
+[929/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/others/gridnav/lv_example_gridnav_4.c.obj
+[930/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/others/monkey/lv_example_monkey_2.c.obj
+[931/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/others/ime/lv_example_ime_pinyin_2.c.obj
+[932/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/others/monkey/lv_example_monkey_1.c.obj
+[933/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/others/monkey/lv_example_monkey_3.c.obj
+[934/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/porting/lv_port_disp_template.c.obj
+[935/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/porting/lv_port_fs_template.c.obj
+[936/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/porting/lv_port_indev_template.c.obj
+[937/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/scroll/lv_example_scroll_1.c.obj
+[938/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/others/msg/lv_example_msg_3.c.obj
+[939/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/scroll/lv_example_scroll_3.c.obj
+[940/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/scroll/lv_example_scroll_2.c.obj
+[941/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/others/snapshot/lv_example_snapshot_1.c.obj
+[942/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/scroll/lv_example_scroll_6.c.obj
+[943/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/calendar/lv_example_calendar_1.c.obj
+[944/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/scroll/lv_example_scroll_5.c.obj
+[945/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/scroll/lv_example_scroll_4.c.obj
+[946/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/styles/lv_example_style_1.c.obj
+[947/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/styles/lv_example_style_10.c.obj
+[948/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/styles/lv_example_style_13.c.obj
+[949/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/styles/lv_example_style_11.c.obj
+[950/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/styles/lv_example_style_2.c.obj
+[951/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/styles/lv_example_style_12.c.obj
+[952/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/styles/lv_example_style_15.c.obj
+[953/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/styles/lv_example_style_14.c.obj
+[954/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/styles/lv_example_style_6.c.obj
+[955/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/styles/lv_example_style_4.c.obj
+[956/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/styles/lv_example_style_5.c.obj
+[957/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/styles/lv_example_style_3.c.obj
+[958/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/styles/lv_example_style_7.c.obj
+[959/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/animimg/lv_example_animimg_1.c.obj
+[960/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/styles/lv_example_style_9.c.obj
+[961/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/arc/lv_example_arc_2.c.obj
+[962/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/styles/lv_example_style_8.c.obj
+[963/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/bar/lv_example_bar_1.c.obj
+[964/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/arc/lv_example_arc_1.c.obj
+[965/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/bar/lv_example_bar_3.c.obj
+[966/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/bar/lv_example_bar_4.c.obj
+[967/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/bar/lv_example_bar_6.c.obj
+[968/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/btn/lv_example_btn_2.c.obj
+[969/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/bar/lv_example_bar_2.c.obj
+[970/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/bar/lv_example_bar_5.c.obj
+[971/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/btn/lv_example_btn_1.c.obj
+[972/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/btnmatrix/lv_example_btnmatrix_2.c.obj
+[973/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/btnmatrix/lv_example_btnmatrix_1.c.obj
+[974/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/btn/lv_example_btn_3.c.obj
+[975/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/canvas/lv_example_canvas_1.c.obj
+[976/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/btnmatrix/lv_example_btnmatrix_3.c.obj
+[977/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/chart/lv_example_chart_2.c.obj
+[978/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/canvas/lv_example_canvas_2.c.obj
+[979/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/chart/lv_example_chart_1.c.obj
+[980/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/chart/lv_example_chart_4.c.obj
+[981/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/dropdown/lv_example_dropdown_3.c.obj
+[982/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/chart/lv_example_chart_3.c.obj
+[983/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/chart/lv_example_chart_5.c.obj
+[984/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/chart/lv_example_chart_6.c.obj
+[985/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/chart/lv_example_chart_7.c.obj
+[986/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/chart/lv_example_chart_9.c.obj
+[987/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/checkbox/lv_example_checkbox_1.c.obj
+[988/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/colorwheel/lv_example_colorwheel_1.c.obj
+[989/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/checkbox/lv_example_checkbox_2.c.obj
+[990/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/chart/lv_example_chart_8.c.obj
+[991/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/dropdown/lv_example_dropdown_1.c.obj
+[992/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/dropdown/lv_example_dropdown_2.c.obj
+[993/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/switch/lv_example_switch_1.c.obj
+[994/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/img/lv_example_img_1.c.obj
+[995/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/imgbtn/lv_example_imgbtn_1.c.obj
+[996/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/img/lv_example_img_2.c.obj
+[997/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/keyboard/lv_example_keyboard_1.c.obj
+[998/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/img/lv_example_img_3.c.obj
+[999/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/img/lv_example_img_4.c.obj
+[1000/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/label/lv_example_label_3.c.obj
+[1001/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/label/lv_example_label_1.c.obj
+[1002/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/label/lv_example_label_5.c.obj
+[1003/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/line/lv_example_line_1.c.obj
+[1004/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/led/lv_example_led_1.c.obj
+[1005/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/label/lv_example_label_4.c.obj
+[1006/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/label/lv_example_label_2.c.obj
+[1007/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/list/lv_example_list_1.c.obj
+[1008/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/menu/lv_example_menu_3.c.obj
+[1009/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/list/lv_example_list_2.c.obj
+[1010/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/menu/lv_example_menu_4.c.obj
+[1011/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/menu/lv_example_menu_2.c.obj
+[1012/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/menu/lv_example_menu_5.c.obj
+[1013/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/menu/lv_example_menu_1.c.obj
+[1014/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/meter/lv_example_meter_2.c.obj
+[1015/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/msgbox/lv_example_msgbox_1.c.obj
+[1016/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/meter/lv_example_meter_1.c.obj
+[1017/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/meter/lv_example_meter_4.c.obj
+[1018/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/meter/lv_example_meter_3.c.obj
+[1019/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/obj/lv_example_obj_2.c.obj
+[1020/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/roller/lv_example_roller_1.c.obj
+[1021/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/obj/lv_example_obj_1.c.obj
+[1022/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/roller/lv_example_roller_3.c.obj
+[1023/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/slider/lv_example_slider_2.c.obj
+[1024/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/slider/lv_example_slider_3.c.obj
+[1025/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/span/lv_example_span_1.c.obj
+[1026/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/roller/lv_example_roller_2.c.obj
+[1027/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/slider/lv_example_slider_1.c.obj
+[1028/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/spinner/lv_example_spinner_1.c.obj
+[1029/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/spinbox/lv_example_spinbox_1.c.obj
+[1030/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/table/lv_example_table_2.c.obj
+[1031/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/tabview/lv_example_tabview_1.c.obj
+[1032/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/table/lv_example_table_1.c.obj
+[1033/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/textarea/lv_example_textarea_2.c.obj
+[1034/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/textarea/lv_example_textarea_1.c.obj
+[1035/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/tileview/lv_example_tileview_1.c.obj
+[1036/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/textarea/lv_example_textarea_3.c.obj
+[1037/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/tabview/lv_example_tabview_2.c.obj
+[1038/1047] Building C object esp-idf/lvgl__lvgl/CMakeFiles/__idf_lvgl__lvgl.dir/examples/widgets/win/lv_example_win_1.c.obj
+[1039/1047] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/rgb_lcd_example_main.c.obj
+/home/logcode/esp32s3_4inch_86_rgb_panel/main/rgb_lcd_example_main.c: In function 'app_main':
+/home/logcode/esp32s3_4inch_86_rgb_panel/main/rgb_lcd_example_main.c:262:31: warning: unused variable 'io_handle' [-Wunused-variable]
+  262 |     esp_lcd_panel_io_handle_t io_handle = NULL;
+      |                               ^~~~~~~~~
+/home/logcode/esp32s3_4inch_86_rgb_panel/main/rgb_lcd_example_main.c:253:38: warning: unused variable 'panel_config' [-Wunused-variable]
+  253 |     const esp_lcd_panel_dev_config_t panel_config = {
+      |                                      ^~~~~~~~~~~~
+[1040/1047] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/lvgl_demo_ui.c.obj
+[1041/1047] Linking C static library esp-idf/lvgl__lvgl/liblvgl__lvgl.a
+[1042/1047] Linking C static library esp-idf/main/libmain.a
+[1043/1047] Generating ld/sections.ld
+[1044/1047] Building C object CMakeFiles/rgb_panel.elf.dir/project_elf_src_esp32s3.c.obj
+[1045/1047] Linking CXX executable rgb_panel.elf
+[1046/1047] Generating binary image from built executable
+esptool.py v4.7.0
+Creating esp32s3 image...
+Merged 2 ELF sections
+Successfully created esp32s3 image.
+Generated /home/logcode/esp32s3_4inch_86_rgb_panel/build/rgb_panel.bin
+[1047/1047] cd /home/logcode/esp32s3_4inch_86_rgb_panel/build/esp-idf/esptool_py && /home/yan/.espressif/python_env/idf5.2_py3.10_env/bin/python /home/logcode/esp-idf/components/partition_table/check_sizes.py --offset 0x8000 partition --type app /home/logcode/esp32s3_4inch_86_rgb_panel/build/partition_table/partition-table.bin /home/logcode/esp32s3_4inch_86_rgb_panel/build/rgb_panel.bin
+rgb_panel.bin binary size 0x6c160 bytes. Smallest app partition is 0x100000 bytes. 0x93ea0 bytes (58%) free.
