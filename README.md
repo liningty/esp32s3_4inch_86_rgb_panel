@@ -61,12 +61,12 @@ esp32s3驱动RGB666屏幕(86盒)
 ```
 
 # 参考图
-![alt text](asset/连线.png)
-![alt text](asset/连线2.png)
+![alt text](./asset/连线.png)
+![alt text](./asset/连线2.png)
 
 # 屏幕
 大显伟业D395C930UV0(这家的屏幕不需要配置SPI初始化，但是注意型号，我是买了三块屏试好的, 参数手册卖家会提供)
-![alt text](image.png)
+![alt text](./image.png)
 
 # 下载
 - idf.py build
