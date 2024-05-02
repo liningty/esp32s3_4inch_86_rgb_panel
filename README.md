@@ -36,7 +36,7 @@ esp32s3驱动RGB666屏幕(86盒)
 #define EXAMPLE_PIN_NUM_DISP_EN        -1
 ```
 注意排线的1到40脚，以及可能需要到正反40PIN_0.5间距排线
-![alt text](asset/屏幕引脚.png)
+![alt text](./asset/屏幕引脚.png)
 配置VS,HS等参数
 ```
         .timings = {
@@ -66,7 +66,7 @@ esp32s3驱动RGB666屏幕(86盒)
 
 # 屏幕
 大显伟业D395C930UV0(这家的屏幕不需要配置SPI初始化，但是注意型号，我是买了三块屏试好的, 参数手册卖家会提供)
-![alt text](./image.png)
+![alt text](./asset/image.png)
 
 # 下载
 - idf.py build
