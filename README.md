@@ -6,6 +6,7 @@ esp32s3驱动RGB666屏幕(86盒)
 - 屏幕驱动电路(需要自己画，或者找有驱动电路的开发板接出来)
 - 4inch_RGB屏幕(86盒)
 - 排线或者杜邦线(用于连接)
+- 屏幕转接板(买屏的会卖)
 # 接线
 设置时钟，以及对应引脚
 ```
@@ -37,27 +38,42 @@ esp32s3驱动RGB666屏幕(86盒)
 ```
 注意排线的1到40脚，以及可能需要到正反40PIN_0.5间距排线
 ![屏幕引脚](./asset/屏幕引脚.png)
-配置VS,HS等参数
+配置VS,HS等参数,根据屏幕类型注释相应参数
 ```
         .timings = {
             .pclk_hz = EXAMPLE_LCD_PIXEL_CLOCK_HZ,
             .h_res = EXAMPLE_LCD_H_RES,
             .v_res = EXAMPLE_LCD_V_RES,
-            // The following parameters should refer to LCD spec，需要屏幕厂家提供
+            /*大显伟业D395T935V2（需要屏幕厂家提供）*/
             // .hsync_back_porch = 43,
             // .hsync_front_porch = 8,
             // .hsync_pulse_width = 2,
-            // .vsync_back_porch = 18,
+            // .vsync_back_porch = 15,
             // .vsync_front_porch = 12,
             // .vsync_pulse_width = 10,
-            .hsync_back_porch = 18,
+
+            /*大显伟业D395T935V2 LCD spec，原厂数据，显示异常，采用上面的数值*/
+            .hsync_back_porch = 49,
             .hsync_front_porch = 2,
             .hsync_pulse_width = 2,
-            .vsync_back_porch = 18,
-            .vsync_front_porch = 2,
-            .vsync_pulse_width = 2,
-            // .flags.pclk_active_neg = true, 
-            .flags.pclk_active_neg = false,
+            .vsync_back_porch = 17,
+            .vsync_front_porch = 10,
+            .vsync_pulse_width = 10,
+
+            /*大显伟业D395C930UV0* LCD spec，需要屏幕厂家提供*/
+            // .hsync_back_porch = 18,
+            // .hsync_front_porch = 2,
+            // .hsync_pulse_width = 2,
+            // .vsync_back_porch = 18,
+            // .vsync_front_porch = 2,
+            // .vsync_pulse_width = 2,
+
+            /*大显伟业D395T935V2 需要配置*/
+            .flags.hsync_idle_low = 1,    // HSYNC 信号空闲时的电平，0：高电平，1：低电平
+            .flags.vsync_idle_low = 1,    // VSYNC 信号空闲时的电平，0 表示高电平，1：低电平
+            .flags.pclk_active_neg = 0,   // 时钟信号的有效边沿，0：上升沿有效，1：下降沿有效
+            .flags.de_idle_high = 1,      // DE 信号空闲时的电平，0：高电平，1：低电平
+        },
 ```
 
 # 参考图
@@ -65,12 +81,16 @@ esp32s3驱动RGB666屏幕(86盒)
 ![连线2](./asset/连线2.png)
 
 # 屏幕
-大显伟业D395C930UV0(这家的屏幕不需要配置SPI初始化，但是注意型号，我是买了三块屏试好的, 参数手册卖家会提供)
-![屏幕介绍](./asset/image.png)
-
+- 大显伟业D395C930UV0(这家的屏幕不需要配置SPI初始化，无排线接口，需要转接板，但是注意型号，我是买了三块屏试好的, 参数手册卖家会提供)
+![大显伟业D395C930UV0](./asset/大显伟业D395C930UV0.png)
+- 大显伟业D395T935V2(这家的屏幕不需要配置SPI初始化，这个屏幕是有排线接口, 参数手册卖家会提供)
+![大显伟业D395T935V2](./asset/大显伟业D395T935V2.png)
 # 下载
 - idf.py build
 - idf.py flash
+
+# 资料
+资料在doc目录
 
 # 参考链接
 - 提到的驱动电路

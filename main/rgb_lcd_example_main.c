@@ -23,7 +23,7 @@ static const char *TAG = "example";
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //////////////////// Please update the following configuration according to your LCD spec //////////////////////////////
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-#define EXAMPLE_LCD_PIXEL_CLOCK_HZ     (15 * 1000 * 1000)
+#define EXAMPLE_LCD_PIXEL_CLOCK_HZ     (18 * 1000 * 1000)
 #define EXAMPLE_LCD_BK_LIGHT_ON_LEVEL  1
 #define EXAMPLE_LCD_BK_LIGHT_OFF_LEVEL !EXAMPLE_LCD_BK_LIGHT_ON_LEVEL
 #define EXAMPLE_PIN_NUM_BK_LIGHT       4  // LEDA 需要有驱动电路，备注为屏幕引脚    
@@ -52,6 +52,9 @@ static const char *TAG = "example";
 // The pixel number in horizontal and vertical
 #define EXAMPLE_LCD_H_RES              480
 #define EXAMPLE_LCD_V_RES              480
+
+
+
 
 #if CONFIG_EXAMPLE_DOUBLE_FB
 #define EXAMPLE_LCD_NUM_FB             2
@@ -208,21 +211,35 @@ void app_main(void)
             .pclk_hz = EXAMPLE_LCD_PIXEL_CLOCK_HZ,
             .h_res = EXAMPLE_LCD_H_RES,
             .v_res = EXAMPLE_LCD_V_RES,
-            // The following parameters should refer to LCD spec，需要屏幕厂家提供
+            /*大显伟业D395T935V2（需要屏幕厂家提供）*/
             // .hsync_back_porch = 43,
             // .hsync_front_porch = 8,
             // .hsync_pulse_width = 2,
-            // .vsync_back_porch = 18,
+            // .vsync_back_porch = 15,
             // .vsync_front_porch = 12,
             // .vsync_pulse_width = 10,
-            .hsync_back_porch = 18,
+
+            /*大显伟业D395T935V2 LCD spec，原厂数据，显示异常，采用上面的数值*/
+            .hsync_back_porch = 49,
             .hsync_front_porch = 2,
             .hsync_pulse_width = 2,
-            .vsync_back_porch = 18,
-            .vsync_front_porch = 2,
-            .vsync_pulse_width = 2,
-            // .flags.pclk_active_neg = true, 
-            .flags.pclk_active_neg = false,
+            .vsync_back_porch = 17,
+            .vsync_front_porch = 10,
+            .vsync_pulse_width = 10,
+
+            /*大显伟业D395C930UV0* LCD spec，需要屏幕厂家提供*/
+            // .hsync_back_porch = 18,
+            // .hsync_front_porch = 2,
+            // .hsync_pulse_width = 2,
+            // .vsync_back_porch = 18,
+            // .vsync_front_porch = 2,
+            // .vsync_pulse_width = 2,
+
+            /*大显伟业D395T935V2 需要配置*/
+            .flags.hsync_idle_low = 1,    // HSYNC 信号空闲时的电平，0：高电平，1：低电平
+            .flags.vsync_idle_low = 1,    // VSYNC 信号空闲时的电平，0 表示高电平，1：低电平
+            .flags.pclk_active_neg = 0,   // 时钟信号的有效边沿，0：上升沿有效，1：下降沿有效
+            .flags.de_idle_high = 1,      // DE 信号空闲时的电平，0：高电平，1：低电平
         },
         .flags.fb_in_psram = true, // allocate frame buffer in PSRAM
     };
