@@ -1,4 +1,0 @@
-dependencies:
-  espressif/esp_lcd_st7701: "*"
-  idf: ">=4.4"
-  lvgl/lvgl: "~8.3.0"
